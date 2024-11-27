@@ -1,6 +1,5 @@
 from sec_edgar_api import EdgarClient
 import json
-import os
 
 # Apple CIK: 0000320193
 # Microsoft CIK: 0000789019
