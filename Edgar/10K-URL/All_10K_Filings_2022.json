@@ -1,0 +1,38 @@
+[
+    {
+        "company": "AAPL",
+        "accessionNumber": "0000320193-22-000108",
+        "filingDate": "2022-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019322000108/0000320193-22-000108.txt"
+    },
+    {
+        "company": "AMZN",
+        "accessionNumber": "0001018724-22-000005",
+        "filingDate": "2022-02-04",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872422000005/0001018724-22-000005.txt"
+    },
+    {
+        "company": "NVDA",
+        "accessionNumber": "0001045810-22-000036",
+        "filingDate": "2022-03-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581022000036/0001045810-22-000036.txt"
+    },
+    {
+        "company": "NFLX",
+        "accessionNumber": "0001065280-22-000036",
+        "filingDate": "2022-01-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528022000036/0001065280-22-000036.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0000950170-22-000796",
+        "filingDate": "2022-02-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000095017022000796/0000950170-22-000796.txt"
+    },
+    {
+        "company": "MSFT",
+        "accessionNumber": "0001564590-22-026876",
+        "filingDate": "2022-07-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000156459022026876/0001564590-22-026876.txt"
+    }
+]

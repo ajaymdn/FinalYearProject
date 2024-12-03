@@ -1,0 +1,68 @@
+[
+    {
+        "company": "AAPL",
+        "accessionNumber": "0000320193-24-000123",
+        "filingDate": "2024-11-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019324000123/0000320193-24-000123.txt"
+    },
+    {
+        "company": "AMZN",
+        "accessionNumber": "0001018724-24-000008",
+        "filingDate": "2024-02-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872424000008/0001018724-24-000008.txt"
+    },
+    {
+        "company": "NVDA",
+        "accessionNumber": "0001045810-24-000029",
+        "filingDate": "2024-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581024000029/0001045810-24-000029.txt"
+    },
+    {
+        "company": "NFLX",
+        "accessionNumber": "0001065280-24-000030",
+        "filingDate": "2024-01-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528024000030/0001065280-24-000030.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0001628280-24-002390",
+        "filingDate": "2024-01-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828024002390/0001628280-24-002390.txt"
+    },
+    {
+        "company": "MSFT",
+        "accessionNumber": "0000950170-24-087843",
+        "filingDate": "2024-07-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000095017024087843/0000950170-24-087843.txt"
+    },
+    {
+        "company": "GOOGL",
+        "accessionNumber": "0001652044-24-000022",
+        "filingDate": "2024-01-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204424000022/0001652044-24-000022.txt"
+    },
+    {
+        "company": "ORCL",
+        "accessionNumber": "0000950170-24-075605",
+        "filingDate": "2024-06-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/0000950170-24-075605.txt"
+    },
+    {
+        "company": "CSCO",
+        "accessionNumber": "0000858877-24-000017",
+        "filingDate": "2024-09-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000858877/000085887724000017/0000858877-24-000017.txt"
+    },
+    {
+        "company": "DELL",
+        "accessionNumber": "0001571996-24-000036",
+        "filingDate": "2024-03-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001571996/000157199624000036/0001571996-24-000036.txt"
+    },
+    {
+        "company": "IBM",
+        "accessionNumber": "0000051143-24-000012",
+        "filingDate": "2024-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000012/0000051143-24-000012.txt"
+    }
+]
