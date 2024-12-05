@@ -1,0 +1,80 @@
+[
+    {
+        "company": "AAPL",
+        "accessionNumber": "0000320193-19-000119",
+        "filingDate": "2019-10-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019319000119/0000320193-19-000119.txt"
+    },
+    {
+        "company": "AMZN",
+        "accessionNumber": "0001018724-19-000004",
+        "filingDate": "2019-02-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872419000004/0001018724-19-000004.txt"
+    },
+    {
+        "company": "NVDA",
+        "accessionNumber": "0001045810-19-000023",
+        "filingDate": "2019-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581019000023/0001045810-19-000023.txt"
+    },
+    {
+        "company": "NFLX",
+        "accessionNumber": "0001065280-19-000043",
+        "filingDate": "2019-01-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528019000043/0001065280-19-000043.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0001564590-19-003165",
+        "filingDate": "2019-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000156459019003165/0001564590-19-003165.txt"
+    },
+    {
+        "company": "MSFT",
+        "accessionNumber": "0001564590-19-027952",
+        "filingDate": "2019-08-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000156459019027952/0001564590-19-027952.txt"
+    },
+    {
+        "company": "ORCL",
+        "accessionNumber": "0001564590-19-023119",
+        "filingDate": "2019-06-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/0001564590-19-023119.txt"
+    },
+    {
+        "company": "CSCO",
+        "accessionNumber": "0000858877-19-000012",
+        "filingDate": "2019-09-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000858877/000085887719000012/0000858877-19-000012.txt"
+    },
+    {
+        "company": "META",
+        "accessionNumber": "0001326801-19-000009",
+        "filingDate": "2019-01-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/0001326801-19-000009.txt"
+    },
+    {
+        "company": "QCOM",
+        "accessionNumber": "0001728949-19-000072",
+        "filingDate": "2019-11-06",
+        "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894919000072/0001728949-19-000072.txt"
+    },
+    {
+        "company": "ADBE",
+        "accessionNumber": "0000796343-19-000019",
+        "filingDate": "2019-01-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634319000019/0000796343-19-000019.txt"
+    },
+    {
+        "company": "CRM",
+        "accessionNumber": "0001108524-19-000009",
+        "filingDate": "2019-03-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001108524/000110852419000009/0001108524-19-000009.txt"
+    },
+    {
+        "company": "HPE",
+        "accessionNumber": "0001645590-19-000044",
+        "filingDate": "2019-12-13",
+        "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559019000044/0001645590-19-000044.txt"
+    }
+]
