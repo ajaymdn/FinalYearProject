@@ -1,0 +1,86 @@
+[
+    {
+        "company": "XOM",
+        "accessionNumber": "0000034088-14-000012",
+        "filingDate": "2014-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408814000012/0000034088-14-000012.txt"
+    },
+    {
+        "company": "CVX",
+        "accessionNumber": "0000093410-14-000011",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341014000011/0000093410-14-000011.txt"
+    },
+    {
+        "company": "COP",
+        "accessionNumber": "0001193125-14-066358",
+        "filingDate": "2014-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312514066358/0001193125-14-066358.txt"
+    },
+    {
+        "company": "EOG",
+        "accessionNumber": "0000821189-14-000007",
+        "filingDate": "2014-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/821189/000082118914000007/0000821189-14-000007.txt"
+    },
+    {
+        "company": "OXY",
+        "accessionNumber": "0000797468-14-000011",
+        "filingDate": "2014-03-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/797468/000079746814000011/0000797468-14-000011.txt"
+    },
+    {
+        "company": "PSX",
+        "accessionNumber": "0001534701-14-000042",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470114000042/0001534701-14-000042.txt"
+    },
+    {
+        "company": "MPC",
+        "accessionNumber": "0001510295-14-000004",
+        "filingDate": "2014-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029514000004/0001510295-14-000004.txt"
+    },
+    {
+        "company": "VLO",
+        "accessionNumber": "0001035002-14-000008",
+        "filingDate": "2014-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500214000008/0001035002-14-000008.txt"
+    },
+    {
+        "company": "HES",
+        "accessionNumber": "0001193125-14-077565",
+        "filingDate": "2014-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/4447/000119312514077565/0001193125-14-077565.txt"
+    },
+    {
+        "company": "DVN",
+        "accessionNumber": "0001193125-14-076267",
+        "filingDate": "2014-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312514076267/0001193125-14-076267.txt"
+    },
+    {
+        "company": "KMI",
+        "accessionNumber": "0001506307-14-000010",
+        "filingDate": "2014-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630714000010/0001506307-14-000010.txt"
+    },
+    {
+        "company": "WMB",
+        "accessionNumber": "0000107263-14-000003",
+        "filingDate": "2014-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726314000003/0000107263-14-000003.txt"
+    },
+    {
+        "company": "HAL",
+        "accessionNumber": "0000045012-14-000069",
+        "filingDate": "2014-02-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501214000069/0000045012-14-000069.txt"
+    },
+    {
+        "company": "EXE",
+        "accessionNumber": "0000895126-14-000104",
+        "filingDate": "2014-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/895126/000089512614000104/0000895126-14-000104.txt"
+    }
+]

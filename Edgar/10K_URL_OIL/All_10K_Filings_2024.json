@@ -1,0 +1,92 @@
+[
+    {
+        "company": "XOM",
+        "accessionNumber": "0000034088-24-000018",
+        "filingDate": "2024-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408824000018/0000034088-24-000018.txt"
+    },
+    {
+        "company": "CVX",
+        "accessionNumber": "0000093410-24-000013",
+        "filingDate": "2024-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341024000013/0000093410-24-000013.txt"
+    },
+    {
+        "company": "COP",
+        "accessionNumber": "0001163165-24-000010",
+        "filingDate": "2024-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/1163165/000116316524000010/0001163165-24-000010.txt"
+    },
+    {
+        "company": "EOG",
+        "accessionNumber": "0000821189-24-000011",
+        "filingDate": "2024-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/821189/000082118924000011/0000821189-24-000011.txt"
+    },
+    {
+        "company": "OXY",
+        "accessionNumber": "0000797468-24-000034",
+        "filingDate": "2024-02-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/797468/000079746824000034/0000797468-24-000034.txt"
+    },
+    {
+        "company": "PSX",
+        "accessionNumber": "0001534701-24-000078",
+        "filingDate": "2024-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000078/0001534701-24-000078.txt"
+    },
+    {
+        "company": "MPC",
+        "accessionNumber": "0001510295-24-000015",
+        "filingDate": "2024-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029524000015/0001510295-24-000015.txt"
+    },
+    {
+        "company": "VLO",
+        "accessionNumber": "0001035002-24-000007",
+        "filingDate": "2024-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000007/0001035002-24-000007.txt"
+    },
+    {
+        "company": "HES",
+        "accessionNumber": "0001628280-24-006845",
+        "filingDate": "2024-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/4447/000162828024006845/0001628280-24-006845.txt"
+    },
+    {
+        "company": "DVN",
+        "accessionNumber": "0000950170-24-021781",
+        "filingDate": "2024-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/0000950170-24-021781.txt"
+    },
+    {
+        "company": "KMI",
+        "accessionNumber": "0001506307-24-000011",
+        "filingDate": "2024-02-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630724000011/0001506307-24-000011.txt"
+    },
+    {
+        "company": "WMB",
+        "accessionNumber": "0000107263-24-000019",
+        "filingDate": "2024-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726324000019/0000107263-24-000019.txt"
+    },
+    {
+        "company": "HAL",
+        "accessionNumber": "0000045012-24-000007",
+        "filingDate": "2024-02-06",
+        "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501224000007/0000045012-24-000007.txt"
+    },
+    {
+        "company": "BKR",
+        "accessionNumber": "0001701605-24-000033",
+        "filingDate": "2024-02-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000033/0001701605-24-000033.txt"
+    },
+    {
+        "company": "EXE",
+        "accessionNumber": "0000895126-24-000013",
+        "filingDate": "2024-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/895126/000089512624000013/0000895126-24-000013.txt"
+    }
+]

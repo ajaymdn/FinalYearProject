@@ -1,0 +1,86 @@
+[
+    {
+        "company": "XOM",
+        "accessionNumber": "0000034088-17-000017",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408817000017/0000034088-17-000017.txt"
+    },
+    {
+        "company": "CVX",
+        "accessionNumber": "0000093410-17-000013",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000013/0000093410-17-000013.txt"
+    },
+    {
+        "company": "COP",
+        "accessionNumber": "0001193125-17-050077",
+        "filingDate": "2017-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312517050077/0001193125-17-050077.txt"
+    },
+    {
+        "company": "EOG",
+        "accessionNumber": "0000821189-17-000017",
+        "filingDate": "2017-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/821189/000082118917000017/0000821189-17-000017.txt"
+    },
+    {
+        "company": "OXY",
+        "accessionNumber": "0000797468-17-000003",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/797468/000079746817000003/0000797468-17-000003.txt"
+    },
+    {
+        "company": "PSX",
+        "accessionNumber": "0001534701-17-000051",
+        "filingDate": "2017-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470117000051/0001534701-17-000051.txt"
+    },
+    {
+        "company": "MPC",
+        "accessionNumber": "0001510295-17-000017",
+        "filingDate": "2017-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029517000017/0001510295-17-000017.txt"
+    },
+    {
+        "company": "VLO",
+        "accessionNumber": "0001035002-17-000009",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500217000009/0001035002-17-000009.txt"
+    },
+    {
+        "company": "HES",
+        "accessionNumber": "0001564590-17-002225",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/4447/000156459017002225/0001564590-17-002225.txt"
+    },
+    {
+        "company": "DVN",
+        "accessionNumber": "0001564590-17-001607",
+        "filingDate": "2017-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459017001607/0001564590-17-001607.txt"
+    },
+    {
+        "company": "KMI",
+        "accessionNumber": "0001506307-17-000008",
+        "filingDate": "2017-02-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630717000008/0001506307-17-000008.txt"
+    },
+    {
+        "company": "WMB",
+        "accessionNumber": "0000107263-17-000003",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726317000003/0000107263-17-000003.txt"
+    },
+    {
+        "company": "HAL",
+        "accessionNumber": "0000045012-17-000047",
+        "filingDate": "2017-02-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501217000047/0000045012-17-000047.txt"
+    },
+    {
+        "company": "EXE",
+        "accessionNumber": "0000895126-17-000068",
+        "filingDate": "2017-03-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/895126/000089512617000068/0000895126-17-000068.txt"
+    }
+]

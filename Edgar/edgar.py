@@ -41,8 +41,8 @@ def get_filings(cik):
                 "filingYear": year  # Add the year to the output
             })
     
-    output_file_path = f'./10K-URL/{company}.json'
+    output_file_path = f'./Edgar/All_10K_Filings_{company}.json'
     with open(output_file_path, 'w') as output_file:
         json.dump(formatted_urls, output_file, indent=4)
 
-get_filings("0001318605")
+get_filings("0000034088")
