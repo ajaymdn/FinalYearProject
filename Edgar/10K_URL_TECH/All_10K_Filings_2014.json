@@ -18,10 +18,10 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581014000030/0001045810-14-000030.txt"
     },
     {
-        "company": "NFLX",
-        "accessionNumber": "0001065280-14-000006",
-        "filingDate": "2014-02-03",
-        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/0001065280-14-000006.txt"
+        "company": "MSFT",
+        "accessionNumber": "0001193125-14-289961",
+        "filingDate": "2014-07-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312514289961/0001193125-14-289961.txt"
     },
     {
         "company": "ORCL",
@@ -42,15 +42,105 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680114000007/0001326801-14-000007.txt"
     },
     {
-        "company": "QCOM",
-        "accessionNumber": "0001234452-14-000320",
-        "filingDate": "2014-11-05",
-        "url": "https://www.sec.gov/Archives/edgar/data/804328/000123445214000320/0001234452-14-000320.txt"
+        "company": "INTC",
+        "accessionNumber": "0000050863-14-000020",
+        "filingDate": "2014-02-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086314000020/0000050863-14-000020.txt"
     },
     {
-        "company": "EA",
-        "accessionNumber": "0000712515-14-000024",
-        "filingDate": "2014-05-21",
-        "url": "https://www.sec.gov/Archives/edgar/data/712515/000071251514000024/0000712515-14-000024.txt"
+        "company": "NFLX",
+        "accessionNumber": "0001065280-14-000006",
+        "filingDate": "2014-02-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/0001065280-14-000006.txt"
+    },
+    {
+        "company": "T",
+        "accessionNumber": "0000732717-14-000010",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/0000732717-14-000010.txt"
+    },
+    {
+        "company": "MU",
+        "accessionNumber": "0000723125-14-000195",
+        "filingDate": "2014-10-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312514000195/0000723125-14-000195.txt"
+    },
+    {
+        "company": "A",
+        "accessionNumber": "0001090872-14-000045",
+        "filingDate": "2014-12-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087214000045/0001090872-14-000045.txt"
+    },
+    {
+        "company": "IBM",
+        "accessionNumber": "0001047469-14-001302",
+        "filingDate": "2014-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746914001302/0001047469-14-001302.txt"
+    },
+    {
+        "company": "HPQ",
+        "accessionNumber": "0001047469-14-009977",
+        "filingDate": "2014-12-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/47217/000104746914009977/0001047469-14-009977.txt"
+    },
+    {
+        "company": "CMCSA",
+        "accessionNumber": "0001193125-14-047522",
+        "filingDate": "2014-02-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312514047522/0001193125-14-047522.txt"
+    },
+    {
+        "company": "INTU",
+        "accessionNumber": "0000896878-14-000163",
+        "filingDate": "2014-09-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687814000163/0000896878-14-000163.txt"
+    },
+    {
+        "company": "ADTN",
+        "accessionNumber": "0001193125-14-071988",
+        "filingDate": "2014-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/926282/000119312514071988/0001193125-14-071988.txt"
+    },
+    {
+        "company": "CPT",
+        "accessionNumber": "0000906345-14-000005",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634514000005/0000906345-14-000005.txt"
+    },
+    {
+        "company": "UI",
+        "accessionNumber": "0001511737-14-000024",
+        "filingDate": "2014-08-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173714000024/0001511737-14-000024.txt"
+    },
+    {
+        "company": "BR",
+        "accessionNumber": "0001193125-14-300856",
+        "filingDate": "2014-08-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/1383312/000119312514300856/0001193125-14-300856.txt"
+    },
+    {
+        "company": "ARR",
+        "accessionNumber": "0001445305-14-000633",
+        "filingDate": "2014-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/1428205/000144530514000633/0001445305-14-000633.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0001193125-14-069681",
+        "filingDate": "2014-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312514069681/0001193125-14-069681.txt"
+    },
+    {
+        "company": "VRSK",
+        "accessionNumber": "0001442145-14-000008",
+        "filingDate": "2014-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/1442145/000144214514000008/0001442145-14-000008.txt"
+    },
+    {
+        "company": "RARE",
+        "accessionNumber": "0001564590-14-000963",
+        "filingDate": "2014-03-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/1515673/000156459014000963/0001564590-14-000963.txt"
     }
 ]

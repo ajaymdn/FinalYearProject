@@ -18,10 +18,10 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000010/0001045810-21-000010.txt"
     },
     {
-        "company": "NFLX",
-        "accessionNumber": "0001065280-21-000040",
-        "filingDate": "2021-01-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/0001065280-21-000040.txt"
+        "company": "MSFT",
+        "accessionNumber": "0001564590-21-039151",
+        "filingDate": "2021-07-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021039151/0001564590-21-039151.txt"
     },
     {
         "company": "ORCL",
@@ -42,39 +42,153 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000014/0001326801-21-000014.txt"
     },
     {
-        "company": "QCOM",
-        "accessionNumber": "0001728949-21-000076",
-        "filingDate": "2021-11-03",
-        "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894921000076/0001728949-21-000076.txt"
+        "company": "INTC",
+        "accessionNumber": "0000050863-21-000010",
+        "filingDate": "2021-01-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/0000050863-21-000010.txt"
     },
     {
-        "company": "HPE",
-        "accessionNumber": "0001645590-21-000068",
-        "filingDate": "2021-12-10",
-        "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559021000068/0001645590-21-000068.txt"
+        "company": "GOOGL",
+        "accessionNumber": "0001652044-21-000010",
+        "filingDate": "2021-02-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000010/0001652044-21-000010.txt"
     },
     {
-        "company": "CRWD",
-        "accessionNumber": "0001535527-21-000007",
-        "filingDate": "2021-03-18",
-        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552721000007/0001535527-21-000007.txt"
+        "company": "NFLX",
+        "accessionNumber": "0001065280-21-000040",
+        "filingDate": "2021-01-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/0001065280-21-000040.txt"
     },
     {
-        "company": "PYPL",
-        "accessionNumber": "0001633917-21-000018",
-        "filingDate": "2021-02-05",
-        "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391721000018/0001633917-21-000018.txt"
-    },
-    {
-        "company": "NET",
-        "accessionNumber": "0001477333-21-000009",
+        "company": "T",
+        "accessionNumber": "0000732717-21-000012",
         "filingDate": "2021-02-25",
-        "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733321000009/0001477333-21-000009.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/0000732717-21-000012.txt"
     },
     {
-        "company": "EA",
-        "accessionNumber": "0000712515-21-000064",
-        "filingDate": "2021-05-26",
-        "url": "https://www.sec.gov/Archives/edgar/data/712515/000071251521000064/0000712515-21-000064.txt"
+        "company": "MU",
+        "accessionNumber": "0000723125-21-000065",
+        "filingDate": "2021-10-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312521000065/0000723125-21-000065.txt"
+    },
+    {
+        "company": "A",
+        "accessionNumber": "0001090872-21-000027",
+        "filingDate": "2021-12-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087221000027/0001090872-21-000027.txt"
+    },
+    {
+        "company": "IBM",
+        "accessionNumber": "0001558370-21-001489",
+        "filingDate": "2021-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000155837021001489/0001558370-21-001489.txt"
+    },
+    {
+        "company": "HPQ",
+        "accessionNumber": "0000047217-21-000060",
+        "filingDate": "2021-12-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721721000060/0000047217-21-000060.txt"
+    },
+    {
+        "company": "CMCSA",
+        "accessionNumber": "0001166691-21-000008",
+        "filingDate": "2021-02-04",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669121000008/0001166691-21-000008.txt"
+    },
+    {
+        "company": "INTU",
+        "accessionNumber": "0000896878-21-000233",
+        "filingDate": "2021-09-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687821000233/0000896878-21-000233.txt"
+    },
+    {
+        "company": "ADTN",
+        "accessionNumber": "0001564590-21-009423",
+        "filingDate": "2021-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/926282/000156459021009423/0001564590-21-009423.txt"
+    },
+    {
+        "company": "CPT",
+        "accessionNumber": "0000906345-21-000010",
+        "filingDate": "2021-02-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634521000010/0000906345-21-000010.txt"
+    },
+    {
+        "company": "CI",
+        "accessionNumber": "0001739940-21-000007",
+        "filingDate": "2021-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994021000007/0001739940-21-000007.txt"
+    },
+    {
+        "company": "UI",
+        "accessionNumber": "0001511737-21-000036",
+        "filingDate": "2021-08-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173721000036/0001511737-21-000036.txt"
+    },
+    {
+        "company": "ONDS",
+        "accessionNumber": "0001213900-21-013984",
+        "filingDate": "2021-03-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390021013984/0001213900-21-013984.txt"
+    },
+    {
+        "company": "BR",
+        "accessionNumber": "0001383312-21-000047",
+        "filingDate": "2021-08-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/0001383312-21-000047.txt"
+    },
+    {
+        "company": "DASH",
+        "accessionNumber": "0001628280-21-004032",
+        "filingDate": "2021-03-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828021004032/0001628280-21-004032.txt"
+    },
+    {
+        "company": "UPST",
+        "accessionNumber": "0001647639-21-000004",
+        "filingDate": "2021-03-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1647639/000164763921000004/0001647639-21-000004.txt"
+    },
+    {
+        "company": "ARR",
+        "accessionNumber": "0001428205-21-000051",
+        "filingDate": "2021-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1428205/000142820521000051/0001428205-21-000051.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0001564590-21-004599",
+        "filingDate": "2021-02-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/0001564590-21-004599.txt"
+    },
+    {
+        "company": "LIN",
+        "accessionNumber": "0001628280-21-003574",
+        "filingDate": "2021-03-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828021003574/0001628280-21-003574.txt"
+    },
+    {
+        "company": "VRSK",
+        "accessionNumber": "0001437749-21-003789",
+        "filingDate": "2021-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774921003789/0001437749-21-003789.txt"
+    },
+    {
+        "company": "UUUU",
+        "accessionNumber": "0001385849-21-000027",
+        "filingDate": "2021-03-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385849/000138584921000027/0001385849-21-000027.txt"
+    },
+    {
+        "company": "ARES",
+        "accessionNumber": "0001628280-21-003314",
+        "filingDate": "2021-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828021003314/0001628280-21-003314.txt"
+    },
+    {
+        "company": "RARE",
+        "accessionNumber": "0001564590-21-005610",
+        "filingDate": "2021-02-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1515673/000156459021005610/0001564590-21-005610.txt"
     }
 ]

@@ -1,0 +1,116 @@
+[
+    {
+        "company": "UNH",
+        "accessionNumber": "0000731766-17-000009",
+        "filingDate": "2017-02-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176617000009/0000731766-17-000009.txt"
+    },
+    {
+        "company": "CVS",
+        "accessionNumber": "0000064803-17-000006",
+        "filingDate": "2017-02-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/0000064803-17-000006.txt"
+    },
+    {
+        "company": "MCK",
+        "accessionNumber": "0000927653-17-000007",
+        "filingDate": "2017-05-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/927653/000092765317000007/0000927653-17-000007.txt"
+    },
+    {
+        "company": "COR",
+        "accessionNumber": "0001140859-17-000047",
+        "filingDate": "2017-11-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1140859/000114085917000047/0001140859-17-000047.txt"
+    },
+    {
+        "company": "CAH",
+        "accessionNumber": "0000721371-17-000083",
+        "filingDate": "2017-08-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137117000083/0000721371-17-000083.txt"
+    },
+    {
+        "company": "ELV",
+        "accessionNumber": "0001156039-17-000002",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603917000002/0001156039-17-000002.txt"
+    },
+    {
+        "company": "CNC",
+        "accessionNumber": "0001071739-17-000018",
+        "filingDate": "2017-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173917000018/0001071739-17-000018.txt"
+    },
+    {
+        "company": "PFE",
+        "accessionNumber": "0000078003-17-000014",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800317000014/0000078003-17-000014.txt"
+    },
+    {
+        "company": "JNJ",
+        "accessionNumber": "0000200406-17-000006",
+        "filingDate": "2017-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/0000200406-17-000006.txt"
+    },
+    {
+        "company": "HUM",
+        "accessionNumber": "0000049071-17-000019",
+        "filingDate": "2017-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907117000019/0000049071-17-000019.txt"
+    },
+    {
+        "company": "HCA",
+        "accessionNumber": "0001193125-17-052253",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312517052253/0001193125-17-052253.txt"
+    },
+    {
+        "company": "MRK",
+        "accessionNumber": "0000310158-17-000010",
+        "filingDate": "2017-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015817000010/0000310158-17-000010.txt"
+    },
+    {
+        "company": "ABBV",
+        "accessionNumber": "0001551152-17-000004",
+        "filingDate": "2017-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115217000004/0001551152-17-000004.txt"
+    },
+    {
+        "company": "BMY",
+        "accessionNumber": "0000014272-17-000047",
+        "filingDate": "2017-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427217000047/0000014272-17-000047.txt"
+    },
+    {
+        "company": "ABT",
+        "accessionNumber": "0001047469-17-000744",
+        "filingDate": "2017-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1800/000104746917000744/0001047469-17-000744.txt"
+    },
+    {
+        "company": "DHR",
+        "accessionNumber": "0000313616-17-000066",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361617000066/0000313616-17-000066.txt"
+    },
+    {
+        "company": "LLY",
+        "accessionNumber": "0000059478-17-000098",
+        "filingDate": "2017-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/0000059478-17-000098.txt"
+    },
+    {
+        "company": "GILD",
+        "accessionNumber": "0000882095-17-000006",
+        "filingDate": "2017-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209517000006/0000882095-17-000006.txt"
+    },
+    {
+        "company": "AMGN",
+        "accessionNumber": "0000318154-17-000004",
+        "filingDate": "2017-02-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815417000004/0000318154-17-000004.txt"
+    }
+]

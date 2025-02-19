@@ -1,0 +1,116 @@
+[
+    {
+        "company": "UNH",
+        "accessionNumber": "0000731766-14-000008",
+        "filingDate": "2014-02-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176614000008/0000731766-14-000008.txt"
+    },
+    {
+        "company": "CVS",
+        "accessionNumber": "0000064803-14-000008",
+        "filingDate": "2014-02-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/0000064803-14-000008.txt"
+    },
+    {
+        "company": "MCK",
+        "accessionNumber": "0001445305-14-002132",
+        "filingDate": "2014-05-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/927653/000144530514002132/0001445305-14-002132.txt"
+    },
+    {
+        "company": "COR",
+        "accessionNumber": "0001047469-14-009555",
+        "filingDate": "2014-11-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/1140859/000104746914009555/0001047469-14-009555.txt"
+    },
+    {
+        "company": "CAH",
+        "accessionNumber": "0000721371-14-000181",
+        "filingDate": "2014-08-13",
+        "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137114000181/0000721371-14-000181.txt"
+    },
+    {
+        "company": "ELV",
+        "accessionNumber": "0001156039-14-000003",
+        "filingDate": "2014-02-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603914000003/0001156039-14-000003.txt"
+    },
+    {
+        "company": "CNC",
+        "accessionNumber": "0001071739-14-000033",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173914000033/0001071739-14-000033.txt"
+    },
+    {
+        "company": "PFE",
+        "accessionNumber": "0000078003-14-000018",
+        "filingDate": "2014-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800314000018/0000078003-14-000018.txt"
+    },
+    {
+        "company": "JNJ",
+        "accessionNumber": "0000200406-14-000033",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/0000200406-14-000033.txt"
+    },
+    {
+        "company": "HUM",
+        "accessionNumber": "0001193125-14-058508",
+        "filingDate": "2014-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312514058508/0001193125-14-058508.txt"
+    },
+    {
+        "company": "HCA",
+        "accessionNumber": "0001193125-14-070000",
+        "filingDate": "2014-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312514070000/0001193125-14-070000.txt"
+    },
+    {
+        "company": "MRK",
+        "accessionNumber": "0000310158-14-000009",
+        "filingDate": "2014-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015814000009/0000310158-14-000009.txt"
+    },
+    {
+        "company": "ABBV",
+        "accessionNumber": "0001047469-14-001154",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746914001154/0001047469-14-001154.txt"
+    },
+    {
+        "company": "BMY",
+        "accessionNumber": "0000014272-14-000054",
+        "filingDate": "2014-02-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427214000054/0000014272-14-000054.txt"
+    },
+    {
+        "company": "ABT",
+        "accessionNumber": "0001047469-14-001176",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1800/000104746914001176/0001047469-14-001176.txt"
+    },
+    {
+        "company": "DHR",
+        "accessionNumber": "0000313616-14-000023",
+        "filingDate": "2014-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361614000023/0000313616-14-000023.txt"
+    },
+    {
+        "company": "LLY",
+        "accessionNumber": "0000059478-14-000078",
+        "filingDate": "2014-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/0000059478-14-000078.txt"
+    },
+    {
+        "company": "GILD",
+        "accessionNumber": "0000882095-14-000013",
+        "filingDate": "2014-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209514000013/0000882095-14-000013.txt"
+    },
+    {
+        "company": "AMGN",
+        "accessionNumber": "0000318154-14-000004",
+        "filingDate": "2014-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815414000004/0000318154-14-000004.txt"
+    }
+]

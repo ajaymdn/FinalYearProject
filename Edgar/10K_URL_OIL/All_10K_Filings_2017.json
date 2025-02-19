@@ -18,22 +18,16 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312517050077/0001193125-17-050077.txt"
     },
     {
-        "company": "EOG",
-        "accessionNumber": "0000821189-17-000017",
-        "filingDate": "2017-02-27",
-        "url": "https://www.sec.gov/Archives/edgar/data/821189/000082118917000017/0000821189-17-000017.txt"
-    },
-    {
         "company": "OXY",
         "accessionNumber": "0000797468-17-000003",
         "filingDate": "2017-02-23",
         "url": "https://www.sec.gov/Archives/edgar/data/797468/000079746817000003/0000797468-17-000003.txt"
     },
     {
-        "company": "PSX",
-        "accessionNumber": "0001534701-17-000051",
-        "filingDate": "2017-02-17",
-        "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470117000051/0001534701-17-000051.txt"
+        "company": "EOG",
+        "accessionNumber": "0000821189-17-000017",
+        "filingDate": "2017-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/821189/000082118917000017/0000821189-17-000017.txt"
     },
     {
         "company": "MPC",
@@ -42,16 +36,16 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029517000017/0001510295-17-000017.txt"
     },
     {
+        "company": "PSX",
+        "accessionNumber": "0001534701-17-000051",
+        "filingDate": "2017-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470117000051/0001534701-17-000051.txt"
+    },
+    {
         "company": "VLO",
         "accessionNumber": "0001035002-17-000009",
         "filingDate": "2017-02-23",
         "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500217000009/0001035002-17-000009.txt"
-    },
-    {
-        "company": "HES",
-        "accessionNumber": "0001564590-17-002225",
-        "filingDate": "2017-02-23",
-        "url": "https://www.sec.gov/Archives/edgar/data/4447/000156459017002225/0001564590-17-002225.txt"
     },
     {
         "company": "DVN",
@@ -60,16 +54,10 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459017001607/0001564590-17-001607.txt"
     },
     {
-        "company": "KMI",
-        "accessionNumber": "0001506307-17-000008",
-        "filingDate": "2017-02-10",
-        "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630717000008/0001506307-17-000008.txt"
-    },
-    {
-        "company": "WMB",
-        "accessionNumber": "0000107263-17-000003",
-        "filingDate": "2017-02-22",
-        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726317000003/0000107263-17-000003.txt"
+        "company": "HES",
+        "accessionNumber": "0001564590-17-002225",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/4447/000156459017002225/0001564590-17-002225.txt"
     },
     {
         "company": "HAL",
@@ -78,9 +66,117 @@
         "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501217000047/0000045012-17-000047.txt"
     },
     {
+        "company": "SLB",
+        "accessionNumber": "0001564590-17-000589",
+        "filingDate": "2017-01-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/0001564590-17-000589.txt"
+    },
+    {
+        "company": "WMB",
+        "accessionNumber": "0000107263-17-000003",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726317000003/0000107263-17-000003.txt"
+    },
+    {
+        "company": "KMI",
+        "accessionNumber": "0001506307-17-000008",
+        "filingDate": "2017-02-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630717000008/0001506307-17-000008.txt"
+    },
+    {
         "company": "EXE",
         "accessionNumber": "0000895126-17-000068",
         "filingDate": "2017-03-03",
         "url": "https://www.sec.gov/Archives/edgar/data/895126/000089512617000068/0000895126-17-000068.txt"
+    },
+    {
+        "company": "AR",
+        "accessionNumber": "0001558370-17-001159",
+        "filingDate": "2017-02-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1433270/000155837017001159/0001558370-17-001159.txt"
+    },
+    {
+        "company": "CTRA",
+        "accessionNumber": "0000858470-17-000007",
+        "filingDate": "2017-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/858470/000085847017000007/0000858470-17-000007.txt"
+    },
+    {
+        "company": "RRC",
+        "accessionNumber": "0001564590-17-002025",
+        "filingDate": "2017-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/315852/000156459017002025/0001564590-17-002025.txt"
+    },
+    {
+        "company": "MUR",
+        "accessionNumber": "0000717423-17-000005",
+        "filingDate": "2017-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/717423/000071742317000005/0000717423-17-000005.txt"
+    },
+    {
+        "company": "FANG",
+        "accessionNumber": "0001539838-17-000009",
+        "filingDate": "2017-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983817000009/0001539838-17-000009.txt"
+    },
+    {
+        "company": "EQT",
+        "accessionNumber": "0000033213-17-000003",
+        "filingDate": "2017-02-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321317000003/0000033213-17-000003.txt"
+    },
+    {
+        "company": "SM",
+        "accessionNumber": "0000893538-17-000013",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/893538/000089353817000013/0000893538-17-000013.txt"
+    },
+    {
+        "company": "MTDR",
+        "accessionNumber": "0001520006-17-000074",
+        "filingDate": "2017-03-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/1520006/000152000617000074/0001520006-17-000074.txt"
+    },
+    {
+        "company": "VTLE",
+        "accessionNumber": "0001528129-17-000026",
+        "filingDate": "2017-02-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/1528129/000152812917000026/0001528129-17-000026.txt"
+    },
+    {
+        "company": "GPOR",
+        "accessionNumber": "0001628280-17-001359",
+        "filingDate": "2017-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/874499/000162828017001359/0001628280-17-001359.txt"
+    },
+    {
+        "company": "CHRD",
+        "accessionNumber": "0001486159-17-000009",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1486159/000148615917000009/0001486159-17-000009.txt"
+    },
+    {
+        "company": "KOS",
+        "accessionNumber": "0001558370-17-001056",
+        "filingDate": "2017-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/1509991/000155837017001056/0001558370-17-001056.txt"
+    },
+    {
+        "company": "GTE",
+        "accessionNumber": "0001273441-17-000011",
+        "filingDate": "2017-03-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/1273441/000127344117000011/0001273441-17-000011.txt"
+    },
+    {
+        "company": "BTCS",
+        "accessionNumber": "0001493152-17-007086",
+        "filingDate": "2017-06-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315217007086/0001493152-17-007086.txt"
+    },
+    {
+        "company": "IMO",
+        "accessionNumber": "0001193125-17-052422",
+        "filingDate": "2017-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/49938/000119312517052422/0001193125-17-052422.txt"
     }
 ]

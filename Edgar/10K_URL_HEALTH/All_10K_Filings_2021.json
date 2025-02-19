@@ -1,0 +1,116 @@
+[
+    {
+        "company": "UNH",
+        "accessionNumber": "0000731766-21-000013",
+        "filingDate": "2021-03-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176621000013/0000731766-21-000013.txt"
+    },
+    {
+        "company": "CVS",
+        "accessionNumber": "0000064803-21-000011",
+        "filingDate": "2021-02-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/0000064803-21-000011.txt"
+    },
+    {
+        "company": "MCK",
+        "accessionNumber": "0000927653-21-000039",
+        "filingDate": "2021-05-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/927653/000092765321000039/0000927653-21-000039.txt"
+    },
+    {
+        "company": "COR",
+        "accessionNumber": "0001140859-21-000058",
+        "filingDate": "2021-11-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1140859/000114085921000058/0001140859-21-000058.txt"
+    },
+    {
+        "company": "CAH",
+        "accessionNumber": "0000721371-21-000080",
+        "filingDate": "2021-08-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/0000721371-21-000080.txt"
+    },
+    {
+        "company": "ELV",
+        "accessionNumber": "0001156039-21-000012",
+        "filingDate": "2021-02-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603921000012/0001156039-21-000012.txt"
+    },
+    {
+        "company": "CNC",
+        "accessionNumber": "0001071739-21-000039",
+        "filingDate": "2021-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173921000039/0001071739-21-000039.txt"
+    },
+    {
+        "company": "PFE",
+        "accessionNumber": "0000078003-21-000038",
+        "filingDate": "2021-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000038/0000078003-21-000038.txt"
+    },
+    {
+        "company": "JNJ",
+        "accessionNumber": "0000200406-21-000008",
+        "filingDate": "2021-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/0000200406-21-000008.txt"
+    },
+    {
+        "company": "HUM",
+        "accessionNumber": "0000049071-21-000039",
+        "filingDate": "2021-02-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907121000039/0000049071-21-000039.txt"
+    },
+    {
+        "company": "HCA",
+        "accessionNumber": "0001193125-21-048994",
+        "filingDate": "2021-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312521048994/0001193125-21-048994.txt"
+    },
+    {
+        "company": "MRK",
+        "accessionNumber": "0000310158-21-000004",
+        "filingDate": "2021-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015821000004/0000310158-21-000004.txt"
+    },
+    {
+        "company": "ABBV",
+        "accessionNumber": "0001551152-21-000008",
+        "filingDate": "2021-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000008/0001551152-21-000008.txt"
+    },
+    {
+        "company": "BMY",
+        "accessionNumber": "0000014272-21-000066",
+        "filingDate": "2021-02-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427221000066/0000014272-21-000066.txt"
+    },
+    {
+        "company": "ABT",
+        "accessionNumber": "0001104659-21-025751",
+        "filingDate": "2021-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/1800/000110465921025751/0001104659-21-025751.txt"
+    },
+    {
+        "company": "DHR",
+        "accessionNumber": "0000313616-21-000045",
+        "filingDate": "2021-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361621000045/0000313616-21-000045.txt"
+    },
+    {
+        "company": "LLY",
+        "accessionNumber": "0000059478-21-000083",
+        "filingDate": "2021-02-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/0000059478-21-000083.txt"
+    },
+    {
+        "company": "GILD",
+        "accessionNumber": "0000882095-21-000008",
+        "filingDate": "2021-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209521000008/0000882095-21-000008.txt"
+    },
+    {
+        "company": "AMGN",
+        "accessionNumber": "0000318154-21-000010",
+        "filingDate": "2021-02-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000010/0000318154-21-000010.txt"
+    }
+]

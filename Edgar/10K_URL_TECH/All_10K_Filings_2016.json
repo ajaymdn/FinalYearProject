@@ -18,10 +18,10 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581016000205/0001045810-16-000205.txt"
     },
     {
-        "company": "NFLX",
-        "accessionNumber": "0001065280-16-000047",
-        "filingDate": "2016-01-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/0001065280-16-000047.txt"
+        "company": "MSFT",
+        "accessionNumber": "0001193125-16-662209",
+        "filingDate": "2016-07-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312516662209/0001193125-16-662209.txt"
     },
     {
         "company": "ORCL",
@@ -42,27 +42,123 @@
         "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680116000043/0001326801-16-000043.txt"
     },
     {
-        "company": "QCOM",
-        "accessionNumber": "0001234452-16-000552",
-        "filingDate": "2016-11-02",
-        "url": "https://www.sec.gov/Archives/edgar/data/804328/000123445216000552/0001234452-16-000552.txt"
+        "company": "INTC",
+        "accessionNumber": "0000050863-16-000105",
+        "filingDate": "2016-02-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086316000105/0000050863-16-000105.txt"
     },
     {
-        "company": "HPE",
-        "accessionNumber": "0001628280-16-022051",
-        "filingDate": "2016-12-15",
-        "url": "https://www.sec.gov/Archives/edgar/data/1645590/000162828016022051/0001628280-16-022051.txt"
-    },
-    {
-        "company": "PYPL",
-        "accessionNumber": "0001633917-16-000113",
+        "company": "GOOGL",
+        "accessionNumber": "0001652044-16-000012",
         "filingDate": "2016-02-11",
-        "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391716000113/0001633917-16-000113.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204416000012/0001652044-16-000012.txt"
     },
     {
-        "company": "EA",
-        "accessionNumber": "0000712515-16-000111",
-        "filingDate": "2016-05-27",
-        "url": "https://www.sec.gov/Archives/edgar/data/712515/000071251516000111/0000712515-16-000111.txt"
+        "company": "NFLX",
+        "accessionNumber": "0001065280-16-000047",
+        "filingDate": "2016-01-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/0001065280-16-000047.txt"
+    },
+    {
+        "company": "T",
+        "accessionNumber": "0000732717-16-000147",
+        "filingDate": "2016-02-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/0000732717-16-000147.txt"
+    },
+    {
+        "company": "MU",
+        "accessionNumber": "0000723125-16-000269",
+        "filingDate": "2016-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312516000269/0000723125-16-000269.txt"
+    },
+    {
+        "company": "A",
+        "accessionNumber": "0001090872-16-000082",
+        "filingDate": "2016-12-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087216000082/0001090872-16-000082.txt"
+    },
+    {
+        "company": "IBM",
+        "accessionNumber": "0001047469-16-010329",
+        "filingDate": "2016-02-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746916010329/0001047469-16-010329.txt"
+    },
+    {
+        "company": "HPQ",
+        "accessionNumber": "0000047217-16-000093",
+        "filingDate": "2016-12-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721716000093/0000047217-16-000093.txt"
+    },
+    {
+        "company": "CMCSA",
+        "accessionNumber": "0001193125-16-452423",
+        "filingDate": "2016-02-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312516452423/0001193125-16-452423.txt"
+    },
+    {
+        "company": "INTU",
+        "accessionNumber": "0000896878-16-000286",
+        "filingDate": "2016-09-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687816000286/0000896878-16-000286.txt"
+    },
+    {
+        "company": "ADTN",
+        "accessionNumber": "0001193125-16-475816",
+        "filingDate": "2016-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/926282/000119312516475816/0001193125-16-475816.txt"
+    },
+    {
+        "company": "CPT",
+        "accessionNumber": "0000906345-16-000044",
+        "filingDate": "2016-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634516000044/0000906345-16-000044.txt"
+    },
+    {
+        "company": "UI",
+        "accessionNumber": "0001511737-16-000040",
+        "filingDate": "2016-08-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173716000040/0001511737-16-000040.txt"
+    },
+    {
+        "company": "BR",
+        "accessionNumber": "0001383312-16-000108",
+        "filingDate": "2016-08-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/1383312/000138331216000108/0001383312-16-000108.txt"
+    },
+    {
+        "company": "ARR",
+        "accessionNumber": "0001428205-16-000300",
+        "filingDate": "2016-02-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1428205/000142820516000300/0001428205-16-000300.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0001564590-16-013195",
+        "filingDate": "2016-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459016013195/0001564590-16-013195.txt"
+    },
+    {
+        "company": "VRSK",
+        "accessionNumber": "0001442145-16-000057",
+        "filingDate": "2016-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/1442145/000144214516000057/0001442145-16-000057.txt"
+    },
+    {
+        "company": "UUUU",
+        "accessionNumber": "0001062993-16-008353",
+        "filingDate": "2016-03-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385849/000106299316008353/0001062993-16-008353.txt"
+    },
+    {
+        "company": "ARES",
+        "accessionNumber": "0001558370-16-003647",
+        "filingDate": "2016-02-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1176948/000155837016003647/0001558370-16-003647.txt"
+    },
+    {
+        "company": "RARE",
+        "accessionNumber": "0001564590-16-013430",
+        "filingDate": "2016-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/1515673/000156459016013430/0001564590-16-013430.txt"
     }
 ]
