@@ -1,0 +1,245 @@
+[
+    {
+        "company": "AAPL",
+        "environment_score_avg": 0.9361289858818054,
+        "social_score_avg": 0.7661458595285138,
+        "governance_score_avg": 0.7215860657967054,
+        "environment_score_std": 0.1056700296973539,
+        "social_score_std": 0.17894626314744402,
+        "governance_score_std": 0.12077130798332034
+    },
+    {
+        "company": "AMZN",
+        "environment_score_avg": 0.7966950748647962,
+        "social_score_avg": 0.6984127669964196,
+        "governance_score_avg": 0.6471440486005835,
+        "environment_score_std": 0.18516645444688684,
+        "social_score_std": 0.18457490040292834,
+        "governance_score_std": 0.11817050897195536
+    },
+    {
+        "company": "NVDA",
+        "environment_score_avg": 0.8791267519647424,
+        "social_score_avg": 0.7701293213947399,
+        "governance_score_avg": 0.636579301740442,
+        "environment_score_std": 0.17180104995038953,
+        "social_score_std": 0.16876570886589712,
+        "governance_score_std": 0.15997549144272508
+    },
+    {
+        "company": "ORCL",
+        "environment_score_avg": 0.8941581795612971,
+        "social_score_avg": 0.7984086056407407,
+        "governance_score_avg": 0.6686558992397494,
+        "environment_score_std": 0.1541088249936487,
+        "social_score_std": 0.1723027323131783,
+        "governance_score_std": 0.1419987081665546
+    },
+    {
+        "company": "CSCO",
+        "environment_score_avg": 0.8066718526508497,
+        "social_score_avg": 0.7789625236482332,
+        "governance_score_avg": 0.5107304763793945,
+        "environment_score_std": 0.19211807895291813,
+        "social_score_std": 0.1730380028855259,
+        "governance_score_std": 0.1571639159883823
+    },
+    {
+        "company": "META",
+        "environment_score_avg": 0.6734308843259458,
+        "social_score_avg": 0.7506939919300415,
+        "governance_score_avg": 0.6795936602970649,
+        "environment_score_std": 0.18758136789991725,
+        "social_score_std": 0.181530002986064,
+        "governance_score_std": 0.15149024651288578
+    },
+    {
+        "company": "GOOGL",
+        "environment_score_avg": 0.8191738501191139,
+        "social_score_avg": 0.7434817490906551,
+        "governance_score_avg": 0.6624701487236335,
+        "environment_score_std": 0.17863105199940765,
+        "social_score_std": 0.17592692328483447,
+        "governance_score_std": 0.17254246969595477
+    },
+    {
+        "company": "NFLX",
+        "environment_score_avg": 0.49150897065798443,
+        "social_score_avg": 0.7547512215758683,
+        "governance_score_avg": 0.638513524223257,
+        "environment_score_std": 0.07888035919585801,
+        "social_score_std": 0.17916427878282873,
+        "governance_score_std": 0.14988151672834127
+    },
+    {
+        "company": "MU",
+        "environment_score_avg": 0.8545550574858983,
+        "social_score_avg": 0.7891181674073724,
+        "governance_score_avg": 0.6331949121243244,
+        "environment_score_std": 0.17744666934898962,
+        "social_score_std": 0.17905048683916572,
+        "governance_score_std": 0.17133635221422827
+    },
+    {
+        "company": "A",
+        "environment_score_avg": 0.7543906960636377,
+        "social_score_avg": 0.7797115846180621,
+        "governance_score_avg": 0.6725467419302141,
+        "environment_score_std": 0.1904758765224641,
+        "social_score_std": 0.1735188791406578,
+        "governance_score_std": 0.1691406165036704
+    },
+    {
+        "company": "HPQ",
+        "environment_score_avg": 0.871008425186842,
+        "social_score_avg": 0.7608133728857394,
+        "governance_score_avg": 0.6484831019145686,
+        "environment_score_std": 0.1647111945617645,
+        "social_score_std": 0.18592231276084695,
+        "governance_score_std": 0.1423238448475397
+    },
+    {
+        "company": "CMCSA",
+        "environment_score_avg": 0.7727627456188202,
+        "social_score_avg": 0.7754408553452559,
+        "governance_score_avg": 0.6256861069372722,
+        "environment_score_std": 0.15719102966363896,
+        "social_score_std": 0.1523431418620719,
+        "governance_score_std": 0.14828172306579052
+    },
+    {
+        "company": "INTU",
+        "environment_score_avg": 0.9471082624636198,
+        "social_score_avg": 0.7561803063414744,
+        "governance_score_avg": 0.6173536459604899,
+        "environment_score_std": 0.0817531679397829,
+        "social_score_std": 0.1874829543504222,
+        "governance_score_std": 0.16436743394150416
+    },
+    {
+        "company": "ADTN",
+        "environment_score_avg": 0.8030081027083926,
+        "social_score_avg": 0.7763363818327585,
+        "governance_score_avg": 0.6949768738543733,
+        "environment_score_std": 0.18909916427658324,
+        "social_score_std": 0.18148174738132014,
+        "governance_score_std": 0.14264363834861168
+    },
+    {
+        "company": "CPT",
+        "environment_score_avg": 0.6863984107971192,
+        "social_score_avg": 0.7986416601857473,
+        "governance_score_avg": 0.7358518838882446,
+        "environment_score_std": 0.23047486159993755,
+        "social_score_std": 0.16743886626138493,
+        "governance_score_std": 0.12457323206738738
+    },
+    {
+        "company": "CI",
+        "environment_score_avg": 0.8307222843170166,
+        "social_score_avg": 0.7793619768921606,
+        "governance_score_avg": 0.6841065193216006,
+        "environment_score_std": 0.1420405450672708,
+        "social_score_std": 0.17485589301951193,
+        "governance_score_std": 0.15512891226332823
+    },
+    {
+        "company": "UI",
+        "environment_score_avg": 0.8331130423716137,
+        "social_score_avg": 0.7395086673589853,
+        "governance_score_avg": 0.6566137114637777,
+        "environment_score_std": 0.17695575981669173,
+        "social_score_std": 0.1801390563446943,
+        "governance_score_std": 0.14272446400610825
+    },
+    {
+        "company": "BR",
+        "environment_score_avg": 0.6956195309758186,
+        "social_score_avg": 0.7608332160066386,
+        "governance_score_avg": 0.6205187362173329,
+        "environment_score_std": 0.20838217587873295,
+        "social_score_std": 0.17080378389891582,
+        "governance_score_std": 0.1726090948638218
+    },
+    {
+        "company": "DASH",
+        "environment_score_avg": 0.7542608284181164,
+        "social_score_avg": 0.7641682742732594,
+        "governance_score_avg": 0.6657681698458535,
+        "environment_score_std": 0.1810964961020389,
+        "social_score_std": 0.18304685062815723,
+        "governance_score_std": 0.153263602622237
+    },
+    {
+        "company": "UPST",
+        "environment_score_avg": 0.6928212746977807,
+        "social_score_avg": 0.7443117236023519,
+        "governance_score_avg": 0.674980756509435,
+        "environment_score_std": 0.1947264895831146,
+        "social_score_std": 0.18738585443112715,
+        "governance_score_std": 0.15683218215595918
+    },
+    {
+        "company": "ARR",
+        "environment_score_avg": 0.6461921744048595,
+        "social_score_avg": 0.7016692933711138,
+        "governance_score_avg": 0.682249470949173,
+        "environment_score_std": 0.18871120917390077,
+        "social_score_std": 0.18665673430718877,
+        "governance_score_std": 0.1433295019493719
+    },
+    {
+        "company": "TSLA",
+        "environment_score_avg": 0.8551110715236304,
+        "social_score_avg": 0.7879010079810338,
+        "governance_score_avg": 0.6632060339053472,
+        "environment_score_std": 0.1357839701722952,
+        "social_score_std": 0.17350970355568568,
+        "governance_score_std": 0.15508992578329714
+    },
+    {
+        "company": "LIN",
+        "environment_score_avg": 0.8960716128349304,
+        "social_score_avg": 0.7493383390147511,
+        "governance_score_avg": 0.6948147018750509,
+        "environment_score_std": 0.12174621844009972,
+        "social_score_std": 0.19013180344964775,
+        "governance_score_std": 0.1854368126208579
+    },
+    {
+        "company": "VRSK",
+        "environment_score_avg": 0.759525203704834,
+        "social_score_avg": 0.7223375800408816,
+        "governance_score_avg": 0.6463834149762988,
+        "environment_score_std": 0.2041663193906176,
+        "social_score_std": 0.17592616518827445,
+        "governance_score_std": 0.15944159444807912
+    },
+    {
+        "company": "UUUU",
+        "environment_score_avg": 0.8614215733242684,
+        "social_score_avg": 0.7796881979420072,
+        "governance_score_avg": 0.6382048139348626,
+        "environment_score_std": 0.14376166907672805,
+        "social_score_std": 0.16052637765992056,
+        "governance_score_std": 0.15603928499470138
+    },
+    {
+        "company": "ARES",
+        "environment_score_avg": 0.7795756990090013,
+        "social_score_avg": 0.7304687454406895,
+        "governance_score_avg": 0.6803706053489914,
+        "environment_score_std": 0.2129380721271864,
+        "social_score_std": 0.18341898065903461,
+        "governance_score_std": 0.16805015844722218
+    },
+    {
+        "company": "RARE",
+        "environment_score_avg": 0.7749543925747275,
+        "social_score_avg": 0.7771441560927603,
+        "governance_score_avg": 0.6182151447843622,
+        "environment_score_std": 0.16896225383613384,
+        "social_score_std": 0.1624376402022663,
+        "governance_score_std": 0.1482852965753478
+    }
+]
