@@ -21,11 +21,7 @@ This project is focused on analyzing industry ESG trends and generating insights
     ```bash
     cd your-repo
     ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the project:
+3. Run the project and installed required packages in the desired folder:
     - Generate URLs:
         ```bash
         jupyter notebook edgar.ipynb
