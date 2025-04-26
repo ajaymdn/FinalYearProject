@@ -15,12 +15,10 @@ This project is focused on analyzing industry ESG trends and generating insights
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/ajaymdn/FinalYearProject.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo
-    ```
+2. Navigate to the project directory.
+    
 3. Run the project and installed required packages in the desired folder:
     - Generate URLs:
         ```bash
