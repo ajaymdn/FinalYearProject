@@ -1,0 +1,18 @@
+Topic,Count,Representation,ESG_Categories
+41,66,"['agreements', 'commercial agreements', 'treaties', 'bargaining agreements', 'agreement', 'management agreements', 'bargaining', 'collective bargaining', 'entered', 'collective', 'governing agreements', 'negotiated']",['Social']
+66,53,"['including including', 'including', 'prepay', 'notably', 'search', 'email', 'pii', 'inclusion', 'physical', 'include', 'methods', 'includes']",['Social']
+175,32,"['eu eu', 'eu', 'european union', 'union', 'union eu', 'european', 'coalition', 'coalition member', 'represents coalition', 'oecd', 'member', 'excluding']",['Social']
+214,28,"['protection regulation', 'general data', 'gdpr', 'regulation gdpr', 'data protection', 'european union', 'union', 'european', 'regulation', 'protection', 'general', 'data']","['Social', 'Governance']"
+215,28,"['investor confidence', 'confidence', 'investor', 'lose confidence', 'investors lose', 'accuracy completeness', 'accuracy', 'completeness', 'financial reports', 'employee retention', 'lose', 'financial information']",['Social']
+252,26,"['safety', 'health safety', 'safety health', 'health', 'product safety', 'safe', 'workplace', 'focus business', 'efforts focus', 'eliminate risk', 'emergency', 'procedures company']",['Social']
+291,23,"['officers', 'officers employees', 'law enforcement', 'continue establish', 'field teams', 'expert', 'officer', 'education', 'affairs', 'teams', 'enforcement', 'initiate']",['Social']
+294,22,"['medical community', 'patients', 'community', 'physicians', 'dr', 'physician', 'medical', 'patient', 'native', 'settings', 'referral', 'patients physicians']",['Social']
+319,22,"['uk', 'european union', 'union', 'exit', 'referendum', 'eu', 'european', 'voted', 'withdrawal', 'electorate', 'withdraw european', 'voters']",['Social']
+358,20,"['education', '', '', '', '', '', '', '', '', '', '', '']",['Social']
+503,17,"['consultants', 'appointed', 'dr', 'education', 'employees consultants', 'experts', 'evaluation', 'perform', 'independent', 'providers', 'marketing', 'employees']",['Social']
+523,16,"['issues', 'scientific', 'matters', 'human rights', 'need address', 'scientific issues', 'similar issues', 'matters issues', 'concerns', 'concern', 'address', 'considerations']",['Social']
+608,14,"['debt securities', 'securities issue', 'equity linked', 'equity', 'equity securities', 'future offerings', 'linked', 'securities', 'method accounting', 'equity convertible', 'acquired funds', 'securities equity']",['Social']
+805,10,"['train', 'training', '', '', '', '', '', '', '', '', '', '']",['Social']
+812,10,"['public health', 'health', 'health issues', 'public', 'political issues', 'issues', 'canada', 'major', 'political', '', '', '']",['Social']
+859,9,"['speculation', 'press', 'investment community', 'community', 'strategic position', 'content consumers', 'analyst', 'result new', 'sentiment', 'news', 'position', 'strategic']",['Social']
+860,9,"['community', 'investors', 'investors increasing', 'investing', 'investors investment', 'increasing demands', 'investors investors', 'companies individuals', 'possess', 'investors securities', 'gses', 'investment community']",['Social']

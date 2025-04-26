@@ -1,0 +1,27 @@
+Name,Representation,Count,ESG_Categories
+1_risks_business_operations_laws,"risks,business,operations,laws,regulations,results,financial condition,condition,financial,results operations",964,Governance
+2_security_data_systems_reputation,"security,data,systems,reputation,attacks,information,customers,access,errors,unauthorized",662,"Social,Governance"
+9_insurance_claims_litigation_coverage,"insurance,claims,litigation,coverage,proceedings,liability,insurance coverage,legal,warranty,legal proceedings",330,Governance
+11_assurance_agreement_letter_acm,"assurance,agreement,letter,acm,notice,agreements,term,action letter,terms,cfpb",306,Governance
+14_export_import_policies_countries,"export,import,policies,countries,export import,laws,compliance,sanctions,encryption,products",165,"Social,Governance"
+22_directors_board directors_stock_class,"directors,board directors,stock,class,board,voting,common stock,common,shares,stockholders",123,Governance
+23_acquisitions_continue_investments_invest,"acquisitions,continue,investments,invest,strategy,technologies,continue make,strategic,make,acquire",122,Governance
+25_security_assurance_predict_measures,"security,assurance,predict,measures,detect,cyber,breaches,prevent,security breaches,able",116,Governance
+28_data_privacy_data protection_protection,"data,privacy,data protection,protection,gdpr,regulation,personal,general data,laws,regulation gdpr",107,Governance
+30_dividends_cash dividends_repurchase_repurchase program,"dividends,cash dividends,repurchase,repurchase program,pay dividends,dividend,program,pay,dividends foreseeable,foreseeable future",104,"Social,Governance"
+36_laws_regulations_safety_laws regulations,"laws,regulations,safety,laws regulations,federal,requirements,state local,federal state,state,subject",98,"Social,Governance"
+37_financial reporting_reporting_internal control_control financial,"financial reporting,reporting,internal control,control financial,internal,control,financial,controls,independent registered,accounting firm",95,Governance
+38_compliance_costs_incur_compliance costs,"compliance,costs,incur,compliance costs,regulations,financial compliance,increase,comply,make activities,fees commissions",81,Governance
+39_statements_disclosure_financial statements_reports,"statements,disclosure,financial statements,reports,sec,minerals,consolidated financial,form 10,annual,item",81,Governance
+43_metrics_rating_estimates_ratings,"metrics,rating,estimates,ratings,rating agencies,inaccuracies,agencies,inaccurate,family,family metrics",68,Governance
+46_inquiries_investigations_scrutiny_regulatory,"inquiries,investigations,scrutiny,regulatory,regulatory scrutiny,subject,regulatory inquiries,enforcement,actions,authorities",67,Governance
+53_future performance_indicative future_indicative_performance,"future performance,indicative future,indicative,performance,indication,indication future,revenue growth,growth,revenue,future",46,"Environmental,Governance"
+55_bribery_anti_corrupt_corruption,"bribery,anti,corrupt,corruption,anti bribery,anti corruption,bribery act,act,corrupt practices,foreign corrupt",43,Governance
+59_equity_awards_equity awards_employees,"equity,awards,equity awards,employees,compensation,value equity,retain,existing employees,incentive,connection employment",40,Governance
+65_california_privacy_ccpa_california privacy,"california,privacy,ccpa,california privacy,2020,privacy rights,cpra,january,effect january,november 2020",35,Governance
+67_security_systems_breaches_information,"security,systems,breaches,information,data,secure,incidents,security breaches,significant costs,incur significant",34,Governance
+68_monitoring_application performance_performance monitoring_security monitoring,"monitoring,application performance,performance monitoring,security monitoring,performance,real time,log,log management,application,experience monitoring",32,"Environmental,Governance"
+76_standards changes_restructuring_standards_required,"standards changes,restructuring,standards,required,changes,reflect new,new enhance,required change,change accounting,existing systems",19,Governance
+78_control financial_internal control_procedures internal_financial reporting,"control financial,internal control,procedures internal,financial reporting,disclosure controls,controls procedures,internal,reporting,controls,procedures",18,Governance
+81_gdpr_worldwide_20 million_fines,"gdpr,worldwide,20 million,fines,percent,annual,million,administrative fines,penalties,provides",14,Governance
+92_divert attention_attention_divert_day,"divert attention,attention,divert,day,attention away,away,significant attention,new obligations,management,day day",9,Governance

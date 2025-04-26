@@ -1,0 +1,9 @@
+Name,Representation,Count,ESG_Categories
+4_stock_price_common_common stock,"stock,price,common,common stock,market,price common,market price,trading,trading price,decline",467,Environmental
+7_pandemic_covid 19_19_covid,"pandemic,covid 19,19,covid,19 pandemic,impact,spread,global,supply,travel",388,Environmental
+26_pricing_prices_free_lower,"pricing,prices,free,lower,offer,competitors,price controls,price,offerings,cost",113,Environmental
+33_cloud_platform_aws_infrastructure,"cloud,platform,aws,infrastructure,public cloud,vendors,networks,azure,amazon,amazon web",101,"Environmental,Social"
+49_expenses_growth_resources_development,"expenses,growth,resources,development,infrastructure,programming,additional,costs,strain,significant",61,"Environmental,Social"
+53_future performance_indicative future_indicative_performance,"future performance,indicative future,indicative,performance,indication,indication future,revenue growth,growth,revenue,future",46,"Environmental,Governance"
+68_monitoring_application performance_performance monitoring_security monitoring,"monitoring,application performance,performance monitoring,security monitoring,performance,real time,log,log management,application,experience monitoring",32,"Environmental,Governance"
+75_uranium_uranium vanadium_vanadium_energy,"uranium,uranium vanadium,vanadium,energy,nuclear,price uranium,rees,prices,electricity,vanadium prices",20,Environmental

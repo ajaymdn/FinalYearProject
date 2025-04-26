@@ -1,0 +1,75 @@
+Topic,Count,Representation,ESG_Categories
+14,187,"['compliance', 'approvals', 'regulatory requirements', 'policies procedures', 'procedures designed', 'regulatory approvals', 'requirements compliance', 'regulatory', 'compliance laws', 'laws regulatory']","['Social', 'Governance']"
+35,107,"['compliance costs', 'compliance', 'costs compliance', 'financial compliance', 'incur substantial', 'increased compliance', 'substantial costs', 'legal financial', 'compliance burdens', 'costs']","['Social', 'Governance']"
+49,83,"['equity securities', 'securities', 'equity', 'debt securities', 'raise additional', 'reinvesting', 'convertible', 'debt equity', 'equitylinked', 'trading securities']",['Social']
+79,63,"['intellectual property', 'intellectual', 'property rights', 'property', 'protect intellectual', 'protect', 'protection intellectual', 'rights', 'enforce intellectual', 'rights intellectual']",['Social']
+81,63,"['awards', 'equity awards', 'stockbased', 'equity incentive', 'stockbased compensation', 'incentive', 'incentive plans', 'equity', 'compensation', 'consider value']",['Social']
+88,60,"['protection data', 'data protection', 'security data', 'protection', 'data security', 'encryption data', 'protection identity', 'data', 'identity protection', 'foreign data']","['Social', 'Governance']"
+91,58,"['customers data', 'unauthorized', 'improper access', 'access disclosure', 'unauthorized access', 'access customers', 'user data', 'disclosure data', 'access', 'customers workforce']",['Social']
+97,55,"['budgetary', 'occupancy', 'budgetary cycles', 'spending priorities', 'sector budgetary', 'appropriations', 'priorities', 'housing', 'rental rates', 'demand payment']",['Social']
+99,55,"['pay aifmd', 'aifmd', 'pay', '', '', '', '', '', '', '']",['Social']
+110,52,"['political political', 'political', 'political leadership', 'political civil', 'leadership', 'andpolitical', 'andpolitical political', 'religion political', 'sentiment including', 'political oppositions']","['Social', 'Governance']"
+113,51,"['cyberattacks', 'vulnerable', 'attacks', 'networks', 'cyberattacks parties', 'customers proprietary', 'risk retaliatory', 'attacks data', 'address undesirable', 'vulnerable cyberattacks']",['Social']
+134,47,"['networks networks', 'networks', 'networks network', 'network networks', 'cyber including', 'cyber networks', 'network cyber', 'networking networks', 'ip networking', 'networking routing']",['Social']
+156,44,"['industry standards', 'standards industry', 'standards', 'multiple protocol', 'technology standards', 'utilize multiple', 'protocol standards', 'standards standards', 'protocol', 'differing technology']","['Social', 'Governance']"
+169,41,"['policies policies', 'policies', 'policies announced', 'announced policies', 'policy', 'policies policy', 'policy changes', 'guidelines policies', 'activity need', 'existing policies']","['Social', 'Governance']"
+171,41,"['repurchase program', 'repurchase', 'stock repurchase', 'share repurchase', 'program does', 'program', 'repurchases', 'expiration date', 'does expiration', 'specific number']",['Social']
+233,35,"['culture', 'corporate culture', 'company culture', 'culture grow', 'maintain corporate', 'contributor', 'culture maintain', 'contributor success', 'culture maintaining', 'inclusive culture']","['Social', 'Governance']"
+240,34,"['growth fail', 'manage growth', 'growth able', 'effectively manage', 'manage', 'fail manage', 'fail effectively', 'able grow', 'growth', 'growth effectively']",['Social']
+247,34,"['health care', 'care', 'drug pricing', 'medical cost', 'utilization', 'care costs', 'cost trends', 'changes utilization', 'valuebased', 'health']","['Environmental', 'Social']"
+277,32,"['capital expenditures', 'expenditures', 'expenditures capital', 'capital spending', 'capital', 'expenditures make', 'spending capital', 'including capital', 'necessary capital', 'spending']","['Environmental', 'Social']"
+292,31,"['project', 'projects projects', 'mesa project', 'nichols ranch', 'ranch', 'nichols', 'ranch project', 'projects', 'alta mesa', 'alta']",['Social']
+303,31,"['growth prospects', 'future growth', 'plan model', 'prospects growth', 'model future', 'growth', 'growth strategy', 'growth plan', 'ability plan', 'execute growth']",['Social']
+329,29,"['federal federal', 'federal', 'government vertical', 'federal housing', 'housing finance', 'vertical federal', 'vertical', 'housing', 'federal government', 'finance authority']",['Social']
+353,28,"['additional capital', 'raise additional', 'need raise', 'raise', 'capital', 'need additional', 'capital expand', 'capital needed', 'fund activities', 'capital fund']","['Environmental', 'Social']"
+374,27,"['protection consumer', 'consumer protection', 'consumer', 'protection', 'protection significant', 'internet consumer', 'collaboration consumer', 'agencies consumer', 'apply aspects', 'protection apply']","['Social', 'Governance']"
+375,27,"['train train', 'train', 'training', 'train training', 'training training', 'training development', 'active training', 'numerous training', 'opportunities internal', 'learning experience']",['Social']
+399,26,"['loan funding', 'funding programs', 'investors loan', 'partners investors', 'funding', 'loan', 'bank', 'bank partners', 'programs', 'programs bank']",['Social']
+413,25,"['development development', 'development', 'whitepaper', 'development redevelopment', 'developments development', 'redevelopment development', 'whitepaper development', 'development whitepaper', 'development developments', 'redevelopment']","['Environmental', 'Social']"
+414,25,"['safety safety', 'safety', 'workplace safety', 'workplace', 'safety workplace', 'unsafe safety', 'alerts workplace', 'issues workplace', 'employee health', 'safety online']",['Social']
+447,24,"['brexit', 'referred brexit', 'notwithstanding brexit', 'kingdom european', 'united kingdom', 'european union', 'kingdom', 'referred', 'union', 'commonly referred']",['Social']
+483,23,"['engagement', 'engagement products', 'user growth', 'users engagement', 'user', 'active user', 'use engagement', 'decreased engagement', 'products user', 'growth engagement']",['Social']
+484,23,"['research development', 'research', 'development research', 'development', 'development efforts', 'efforts research', 'engage research', 'individual contributors', 'development activities', 'contributors']","['Environmental', 'Social']"
+518,22,"['interoperate', 'networks products', 'interoperate customers', 'products interoperate', 'customers networks', 'networks', 'customers existing', 'existing networks', 'interoperate products', 'interface']",['Social']
+523,22,"['technology technology', 'technology technological', 'technological technology', 'technology', 'technology chemistry', 'chemistry', 'chemistry technology', 'technological technological', 'technological', '']","['Environmental', 'Social']"
+636,19,"['growth placed', 'rapid growth', 'placed growth', 'placed', 'rapidly years', 'grown rapidly', 'rapid', 'growth', 'growth growth', 'experienced rapid']",['Social']
+647,19,"['headcount', 'headcount grew', 'experience growth', 'longer emerging', 'grown', 'growth company', 'emerging growth', 'rapid growth', 'growth', 'growth future']",['Social']
+649,18,"['access unauthorized', 'unauthorized access', 'unauthorized', 'access', 'gained', 'unauthorized parties', 'acquisition unauthorized', 'credentials result', 'gained access', 'gained unauthorized']",['Social']
+715,17,"['whistleblower', 'discrimination', 'complaints whistleblower', 'antidiscrimination', 'whistleblower complaints', 'false claims', 'complaints', 'claims reasonable', 'changes final', 'antidiscrimination antidiscrimination']",['Social']
+719,17,"['human rights', 'rights human', 'civil rights', 'rights rights', 'forgotten', 'rights right', 'forgotten rights', 'right forgotten', 'human', 'rights']",['Social']
+720,17,"['proprietary technology', 'technology proprietary', 'proprietary', 'proprietary technologies', 'protect proprietary', 'technology', 'ability protect', 'respect proprietary', 'significantly proprietary', 'advantages protect']","['Environmental', 'Social']"
+790,16,"['public health', 'health crises', 'crises', 'crises public', 'health emergencies', 'emergencies', 'health', 'health emergency', 'threatened public', 'actual threatened']","['Environmental', 'Social']"
+806,15,"['eu eu', 'eu', 'euu', 'european union', 'union eu', 'union', 'eu european', 'addition eu', 'euu eu', 'signed euu']",['Social']
+811,15,"['health issues', 'issues public', 'public health', 'health', 'health problems', 'issues', 'public', 'health measures', 'health issue', 'currently cause']","['Environmental', 'Social']"
+813,15,"['warehouse credit', 'credit facilities', 'warehouse', 'loans', 'balance sheet', 'sheet', 'spe', 'partially', 'balance', 'associated warehouse']",['Social']
+815,15,"['evolving industry', 'standards evolving', 'industry standards', 'evolving', 'standards', 'industry', 'customers evolving', 'emerge preferred', 'implemented uniformly', 'industry regulatory']","['Social', 'Governance']"
+857,15,"['error human', 'human', 'human error', 'error', 'human software', 'software errors', 'human technological', 'technological error', 'possibility human', 'errors human']",['Social']
+870,15,"['diversity', 'differences diversity', 'cultural differences', 'diversity cultural', 'differences', 'cultural', 'diverse employees', 'diverse diversity', 'differing diverse', 'diversity key']","['Social', 'Governance']"
+935,14,"['partnerships', 'partnerships partnerships', 'collaborators', 'collaborators collaborate', 'collaborate collaborators', 'collaborators identify', 'collaborations partnership', 'communities partnerships', 'collaboration collaborators', 'partnerships collaboration']",['Social']
+959,13,"['capital requirements', 'requirements capital', 'capital adequacy', 'capital', 'mandatory capitalization', '2023 capital', 'beginning 2023', 'company licensing', 'capitalization rd', 'adequacy including']","['Environmental', 'Social']"
+1007,13,"['competitors companies', 'employees competitors', 'hiring members', 'recruiting hiring', 'competitors successful', 'hire employees', 'hiring', 'successful recruiting', 'team key', 'companies industry']",['Social']
+1011,13,"['economic cooperation', 'development oecd', 'cooperation development', 'cooperation', 'organization economic', 'oecd', 'erosion profit', 'profit shifting', 'base erosion', 'shifting beps']",['Social']
+1015,13,"['collective bargaining', 'bargaining', 'collective', 'organize', 'bargaining agreements', 'labor union', 'labor unions', 'unions', 'works councils', 'union']",['Social']
+1018,13,"['hiring hiring', 'hire hire', 'hiring', 'hire hiring', 'hire', 'hires hired', 'hunt new', 'hiring hunt', 'hiring hire', 'hunt']",['Social']
+1067,12,"['market awareness', 'awareness company', 'awareness', 'unable increase', 'increase market', 'market acceptance', 'accepted adopted', 'adopted consumers', 'awareness new', 'acceptance product']",['Social']
+1082,12,"['retention retention', 'retention', '', '', '', '', '', '', '', '']",['Social']
+1113,11,"['standards standards', 'standards', 'conformance standards', 'proof', 'standards conformance', 'proof standards', 'interpretations terms', 'standards proof', 'terms standards', 'varying standards']","['Social', 'Governance']"
+1128,11,"['health safety', 'safety health', 'safety', 'health', 'prevention programs', 'reactions health', 'emergency response', 'safety human', 'safety loss', 'safety reactions']","['Environmental', 'Social']"
+1144,11,"['jobs act', 'cuts jobs', 'tax cuts', 'jobs', 'cuts', '2017 tax', '2017', 'tax act', 'act tax', 'act 2017']","['Environmental', 'Social']"
+1153,11,"['development product', 'product development', 'development', 'tasks product', 'goals product', 'development tasks', 'development goals', 'tasks', 'product', 'goals']","['Environmental', 'Social']"
+1184,11,"['social social', 'social', 'empathy social', 'social empathy', 'empathy', 'distancing social', 'social sis', 'sis social', 'networking social', 'sis']",['Social']
+1216,10,"['language', 'languages languages', 'language language', 'languages', 'gender color', 'color sex', 'programming languages', 'color', 'sex', 'sex cultural']",['Social']
+1236,10,"['united kingdom', 'european union', 'kingdom', 'union', 'union january', 'withdrawal united', 'eu including', 'withdrawal', 'european', 'kingdom european']",['Social']
+1255,10,"['user engagement', 'engagement', 'engagement level', 'level user', 'user', 'engagement user', 'user growth', 'changed time', 'time user', 'patterns changed']",['Social']
+1264,10,"['strategic partnerships', 'partnerships', 'partnerships strategic', 'businesses strategic', 'partnerships businesses', 'strategic relationships', 'strategic', 'dispositions business', 'retaining strategic', 'played strategic']",['Social']
+1282,10,"['value added', 'added', 'valueadded', 'valueadded value', 'valueadded valueadded', 'added valueadded', 'added value', 'value', '', '']",['Social']
+1334,9,"['attorneys general', 'attorneys', 'state attorneys', 'general state', 'department justice', 'justice', 'agency dcma', 'management agency', 'justice state', 'joined number']","['Environmental', 'Social']"
+1335,9,"['human', 'human capital', 'human resource', 'resource human', 'capital management', 'resource', '70 workforce', '31 roughly', 'roughly', 'resources january']",['Social']
+1382,9,"['growth grow', 'growth growth', 'grow growing', 'grow growth', 'growing growth', 'grow', 'growth', 'growing', '', '']",['Social']
+1399,9,"['libel', 'defamation', 'defamation libel', 'harassment', 'defamation harassment', 'harassment defamation', 'harassment libel', 'libel defamation', 'libel libel', 'libel harassment']",['Social']
+1400,9,"['health authority', 'health care', 'care', 'health', 'authority requirements', 'changes fdas', 'care pricing', 'care laws', 'act measures', 'authority expectations']","['Environmental', 'Social']"
+1469,8,"['sharing sharing', 'sharing', 'collaboration sharing', 'sharing collaboration', 'collaboration', '', '', '', '', '']",['Social']
+1490,8,"['engagement engagement', 'engagement', 'degrees engagement', 'engage engagement', 'engagement engage', 'engagement varying', 'interact engagement', 'interact', 'degrees', 'varying degrees']",['Social']
+1521,8,"['procedures policies', 'policies procedures', 'procedures', 'policies', 'conduct policies', 'procedures practices', 'practices conduct', 'conduct', 'practices', '']","['Social', 'Governance']"
+1531,8,"['safety laws', 'health safety', 'safety', 'occupational', 'safety health', 'health', 'administration various', 'governing manufacture', 'health administration', 'areas worker']","['Environmental', 'Social']"
+1551,8,"['public safety', 'safety measures', 'imposition protective', 'protective public', 'protective', 'safety', 'imposition', 'implement varying', 'measure following', 'governments affected']",['Social']

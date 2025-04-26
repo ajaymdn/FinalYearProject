@@ -1,194 +1,278 @@
 [
     {
-        "company": "AAPL",
-        "accessionNumber": "0000320193-22-000108",
-        "filingDate": "2022-10-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108.txt"
-    },
-    {
-        "company": "AMZN",
-        "accessionNumber": "0001018724-22-000005",
-        "filingDate": "2022-02-04",
-        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/0001018724-22-000005.txt"
+        "company": "GOOGL",
+        "accessionNumber": "0001652044-22-000019",
+        "filingDate": "2022-02-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204422000019/0001652044-22-000019.txt"
     },
     {
         "company": "NVDA",
         "accessionNumber": "0001045810-22-000036",
         "filingDate": "2022-03-18",
-        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/0001045810-22-000036.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581022000036/0001045810-22-000036.txt"
     },
     {
-        "company": "MSFT",
-        "accessionNumber": "0001564590-22-026876",
-        "filingDate": "2022-07-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/0001564590-22-026876.txt"
+        "company": "AMZN",
+        "accessionNumber": "0001018724-22-000005",
+        "filingDate": "2022-02-04",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872422000005/0001018724-22-000005.txt"
+    },
+    {
+        "company": "AAPL",
+        "accessionNumber": "0000320193-22-000108",
+        "filingDate": "2022-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019322000108/0000320193-22-000108.txt"
     },
     {
         "company": "ORCL",
         "accessionNumber": "0001564590-22-023675",
         "filingDate": "2022-06-21",
-        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/0001564590-22-023675.txt"
-    },
-    {
-        "company": "CSCO",
-        "accessionNumber": "0000858877-22-000013",
-        "filingDate": "2022-09-08",
-        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887722000013/0000858877-22-000013.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000156459022023675/0001564590-22-023675.txt"
     },
     {
         "company": "META",
         "accessionNumber": "0001326801-22-000018",
         "filingDate": "2022-02-03",
-        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/0001326801-22-000018.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000132680122000018/0001326801-22-000018.txt"
     },
     {
         "company": "INTC",
         "accessionNumber": "0000050863-22-000007",
         "filingDate": "2022-01-27",
-        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086322000007/0000050863-22-000007.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000050863/000005086322000007/0000050863-22-000007.txt"
     },
     {
-        "company": "GOOGL",
-        "accessionNumber": "0001652044-22-000019",
-        "filingDate": "2022-02-02",
-        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/0001652044-22-000019.txt"
+        "company": "MSFT",
+        "accessionNumber": "0001564590-22-026876",
+        "filingDate": "2022-07-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/000789019/000156459022026876/0001564590-22-026876.txt"
     },
     {
-        "company": "NFLX",
-        "accessionNumber": "0001065280-22-000036",
-        "filingDate": "2022-01-27",
-        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/0001065280-22-000036.txt"
-    },
-    {
-        "company": "T",
-        "accessionNumber": "0000732717-22-000015",
-        "filingDate": "2022-02-16",
-        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/0000732717-22-000015.txt"
+        "company": "CSCO",
+        "accessionNumber": "0000858877-22-000013",
+        "filingDate": "2022-09-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/000858877/000085887722000013/0000858877-22-000013.txt"
     },
     {
         "company": "MU",
         "accessionNumber": "0000723125-22-000048",
         "filingDate": "2022-10-07",
-        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312522000048/0000723125-22-000048.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000723125/000072312522000048/0000723125-22-000048.txt"
     },
     {
         "company": "A",
         "accessionNumber": "0001090872-22-000026",
         "filingDate": "2022-12-21",
-        "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087222000026/0001090872-22-000026.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001090872/000109087222000026/0001090872-22-000026.txt"
     },
     {
-        "company": "IBM",
-        "accessionNumber": "0001558370-22-001584",
-        "filingDate": "2022-02-22",
-        "url": "https://www.sec.gov/Archives/edgar/data/51143/000155837022001584/0001558370-22-001584.txt"
-    },
-    {
-        "company": "HPQ",
-        "accessionNumber": "0000047217-22-000068",
-        "filingDate": "2022-12-06",
-        "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721722000068/0000047217-22-000068.txt"
-    },
-    {
-        "company": "CMCSA",
-        "accessionNumber": "0001166691-22-000009",
-        "filingDate": "2022-02-02",
-        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669122000009/0001166691-22-000009.txt"
+        "company": "NFLX",
+        "accessionNumber": "0001065280-22-000036",
+        "filingDate": "2022-01-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528022000036/0001065280-22-000036.txt"
     },
     {
         "company": "INTU",
         "accessionNumber": "0000896878-22-000028",
         "filingDate": "2022-09-02",
-        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687822000028/0000896878-22-000028.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000896878/000089687822000028/0000896878-22-000028.txt"
+    },
+    {
+        "company": "HPQ",
+        "accessionNumber": "0000047217-22-000068",
+        "filingDate": "2022-12-06",
+        "url": "https://www.sec.gov/Archives/edgar/data/000047217/000004721722000068/0000047217-22-000068.txt"
     },
     {
         "company": "ADTN",
         "accessionNumber": "0000950170-22-002054",
         "filingDate": "2022-02-25",
-        "url": "https://www.sec.gov/Archives/edgar/data/926282/000095017022002054/0000950170-22-002054.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000926282/000095017022002054/0000950170-22-002054.txt"
+    },
+    {
+        "company": "CMCSA",
+        "accessionNumber": "0001166691-22-000009",
+        "filingDate": "2022-02-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001166691/000116669122000009/0001166691-22-000009.txt"
     },
     {
         "company": "CPT",
         "accessionNumber": "0000906345-22-000009",
         "filingDate": "2022-02-17",
-        "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634522000009/0000906345-22-000009.txt"
-    },
-    {
-        "company": "CI",
-        "accessionNumber": "0001739940-22-000007",
-        "filingDate": "2022-02-24",
-        "url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994022000007/0001739940-22-000007.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000906345/000090634522000009/0000906345-22-000009.txt"
     },
     {
         "company": "UI",
         "accessionNumber": "0001511737-22-000049",
         "filingDate": "2022-08-26",
-        "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173722000049/0001511737-22-000049.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001511737/000151173722000049/0001511737-22-000049.txt"
+    },
+    {
+        "company": "IBM",
+        "accessionNumber": "0001558370-22-001584",
+        "filingDate": "2022-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/000051143/000155837022001584/0001558370-22-001584.txt"
+    },
+    {
+        "company": "T",
+        "accessionNumber": "0000732717-22-000015",
+        "filingDate": "2022-02-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/000732717/000073271722000015/0000732717-22-000015.txt"
     },
     {
         "company": "ONDS",
         "accessionNumber": "0001213900-22-013991",
         "filingDate": "2022-03-22",
-        "url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390022013991/0001213900-22-013991.txt"
-    },
-    {
-        "company": "BR",
-        "accessionNumber": "0001383312-22-000037",
-        "filingDate": "2022-08-12",
-        "url": "https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/0001383312-22-000037.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001646188/000121390022013991/0001213900-22-013991.txt"
     },
     {
         "company": "DASH",
         "accessionNumber": "0001628280-22-004350",
         "filingDate": "2022-03-01",
-        "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828022004350/0001628280-22-004350.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000162828022004350/0001628280-22-004350.txt"
     },
     {
         "company": "UPST",
         "accessionNumber": "0001647639-22-000009",
         "filingDate": "2022-02-18",
-        "url": "https://www.sec.gov/Archives/edgar/data/1647639/000164763922000009/0001647639-22-000009.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001647639/000164763922000009/0001647639-22-000009.txt"
     },
     {
-        "company": "ARR",
-        "accessionNumber": "0001428205-22-000026",
-        "filingDate": "2022-02-16",
-        "url": "https://www.sec.gov/Archives/edgar/data/1428205/000142820522000026/0001428205-22-000026.txt"
-    },
-    {
-        "company": "TSLA",
-        "accessionNumber": "0000950170-22-000796",
-        "filingDate": "2022-02-07",
-        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/0000950170-22-000796.txt"
+        "company": "CI",
+        "accessionNumber": "0001739940-22-000007",
+        "filingDate": "2022-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001739940/000173994022000007/0001739940-22-000007.txt"
     },
     {
         "company": "LIN",
         "accessionNumber": "0001628280-22-004180",
         "filingDate": "2022-02-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828022004180/0001628280-22-004180.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001707925/000162828022004180/0001628280-22-004180.txt"
     },
     {
-        "company": "VRSK",
-        "accessionNumber": "0001437749-22-004083",
-        "filingDate": "2022-02-22",
-        "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774922004083/0001437749-22-004083.txt"
+        "company": "BR",
+        "accessionNumber": "0001383312-22-000037",
+        "filingDate": "2022-08-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001383312/000138331222000037/0001383312-22-000037.txt"
+    },
+    {
+        "company": "ARR",
+        "accessionNumber": "0001428205-22-000026",
+        "filingDate": "2022-02-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001428205/000142820522000026/0001428205-22-000026.txt"
+    },
+    {
+        "company": "TSLA",
+        "accessionNumber": "0000950170-22-000796",
+        "filingDate": "2022-02-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000095017022000796/0000950170-22-000796.txt"
     },
     {
         "company": "UUUU",
         "accessionNumber": "0001385849-22-000024",
         "filingDate": "2022-03-15",
-        "url": "https://www.sec.gov/Archives/edgar/data/1385849/000138584922000024/0001385849-22-000024.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001385849/000138584922000024/0001385849-22-000024.txt"
+    },
+    {
+        "company": "VRSK",
+        "accessionNumber": "0001437749-22-004083",
+        "filingDate": "2022-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001442145/000143774922004083/0001437749-22-004083.txt"
     },
     {
         "company": "ARES",
         "accessionNumber": "0001628280-22-004289",
         "filingDate": "2022-02-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828022004289/0001628280-22-004289.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001176948/000162828022004289/0001628280-22-004289.txt"
     },
     {
         "company": "RARE",
         "accessionNumber": "0000950170-22-001284",
         "filingDate": "2022-02-15",
-        "url": "https://www.sec.gov/Archives/edgar/data/1515673/000095017022001284/0000950170-22-001284.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001515673/000095017022001284/0000950170-22-001284.txt"
+    },
+    {
+        "company": "SNOW",
+        "accessionNumber": "0001640147-22-000023",
+        "filingDate": "2022-03-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001640147/000164014722000023/0001640147-22-000023.txt"
+    },
+    {
+        "company": "GME",
+        "accessionNumber": "0001326380-22-000021",
+        "filingDate": "2022-03-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001326380/000132638022000021/0001326380-22-000021.txt"
+    },
+    {
+        "company": "NET",
+        "accessionNumber": "0001477333-22-000008",
+        "filingDate": "2022-03-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001477333/000147733322000008/0001477333-22-000008.txt"
+    },
+    {
+        "company": "IPGP",
+        "accessionNumber": "0001111928-22-000025",
+        "filingDate": "2022-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001111928/000111192822000025/0001111928-22-000025.txt"
+    },
+    {
+        "company": "AME",
+        "accessionNumber": "0001037868-22-000009",
+        "filingDate": "2022-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001037868/000103786822000009/0001037868-22-000009.txt"
+    },
+    {
+        "company": "CRWD",
+        "accessionNumber": "0001535527-22-000006",
+        "filingDate": "2022-03-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552722000006/0001535527-22-000006.txt"
+    },
+    {
+        "company": "JNPR",
+        "accessionNumber": "0001043604-22-000017",
+        "filingDate": "2022-02-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001043604/000104360422000017/0001043604-22-000017.txt"
+    },
+    {
+        "company": "NXPI",
+        "accessionNumber": "0001413447-22-000008",
+        "filingDate": "2022-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001413447/000141344722000008/0001413447-22-000008.txt"
+    },
+    {
+        "company": "AMD",
+        "accessionNumber": "0000002488-22-000016",
+        "filingDate": "2022-02-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248822000016/0000002488-22-000016.txt"
+    },
+    {
+        "company": "NOC",
+        "accessionNumber": "0001133421-22-000004",
+        "filingDate": "2022-01-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001133421/000113342122000004/0001133421-22-000004.txt"
+    },
+    {
+        "company": "EW",
+        "accessionNumber": "0001099800-22-000005",
+        "filingDate": "2022-02-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001099800/000109980022000005/0001099800-22-000005.txt"
+    },
+    {
+        "company": "ANET",
+        "accessionNumber": "0001596532-22-000026",
+        "filingDate": "2022-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001596532/000159653222000026/0001596532-22-000026.txt"
+    },
+    {
+        "company": "DDOG",
+        "accessionNumber": "0001561550-22-000009",
+        "filingDate": "2022-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001561550/000156155022000009/0001561550-22-000009.txt"
+    },
+    {
+        "company": "CRM",
+        "accessionNumber": "0001108524-22-000013",
+        "filingDate": "2022-03-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001108524/000110852422000013/0001108524-22-000013.txt"
     }
 ]

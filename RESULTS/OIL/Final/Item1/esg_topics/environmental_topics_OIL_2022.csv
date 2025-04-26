@@ -1,0 +1,26 @@
+Name,Representation,Count,ESG_Categories
+3_weather_hurricanes_severe_extreme,"weather,hurricanes,severe,extreme,physical,weather events,storms,severe weather,climate,events,extreme weather,weather conditions",75,Environmental
+6_stock_common stock_common_price common,"stock,common stock,common,price common,price,market price,market,trading,fluctuate,stock price,analysts,stock market",59,Environmental
+7_credit risk_derivative_counterparties_risk,"credit risk,derivative,counterparties,risk,expose,risk financial,receivables,expose risk,financial loss,counterparty,derivative instrument,arrangements expose",43,"Environmental,Governance"
+9_emissions_climate_climate change_greenhouse,"emissions,climate,climate change,greenhouse,gases,ghg,demand,ghg emissions,demand oil,legislation,increased operating,greenhouse gases",39,Environmental
+21_ghg_emissions_cap trade_ghg emissions,"ghg,emissions,cap trade,ghg emissions,cap,trade,programs,regional,reducing ghg,ghgs,reducing,emission",34,Environmental
+24_risk_risk factors_1a risk_item,"risk,risk factors,1a risk,item,item 1a,1a,carefully,summary,7a,factors,included,following",31,"Environmental,Governance"
+29_epa_standards_air_nsps,"epa,standards,air,nsps,methane,emission,proposed,emissions,november,performance standards,air pollutants,organic",29,"Environmental,Governance"
+32_species_wildlife_federal lands_limitations,"species,wildlife,federal lands,limitations,protect,designed protect,threatened endangered,restrictions drilling,endangered,threatened,drilling activities,gas operations",28,Environmental
+39_injury loss_life_damage_injury,"injury loss,life,damage,injury,loss,property,loss life,destruction property,natural resources,damage destruction,pollution,destruction",26,Environmental
+53_energy_technologies_solutions_energy transition,"energy,technologies,solutions,energy transition,transition,technology,carbon,lcs,ccs,adapt,advanced,emerging",23,"Environmental,Social"
+55_climate change_attention_climate_increasing attention,"climate change,attention,climate,increasing attention,change,resulted increased,change resulted,increasing,private,public private,investigations,lawsuits",23,Environmental
+86_water_dispose_recycle_water use,"water,dispose,recycle,water use,amounts water,adequate supplies,supplies water,operations unable,sufficient amounts,water drilling,unable,ability produce",17,Environmental
+89_opec_russia_domestic_global,"opec,russia,domestic,global,worldwide,global oil,countries,price availability,conditions,energy,economic conditions,ukraine",16,Environmental
+96_fuel_reduce demand_demand_conservation measures,"fuel,reduce demand,demand,conservation measures,technological,fuel conservation,conservation,technological advances,advances,energy,vehicles,alternative",15,Environmental
+97_finance operations_contraction_credit availability_markets lead,"finance operations,contraction,credit availability,markets lead,ability finance,global financial,volatility global,impacting,finance,financial markets,availability,reduction",15,Environmental
+100_farmout_land_eminent_proportion,"farmout,land,eminent,proportion,eminent domain,farmout party,domain,entities participate,participate wells,pooling,license areas,unitization",15,Environmental
+108_plastic_opposition_negative_growing,"plastic,opposition,negative,growing,public,waste,plastic products,projects,concerns,public opinion,environment,gas drilling",14,Environmental
+109_investors_esg_scores_ratings,"investors,esg,scores,ratings,investment,sustainability,approach esg,score,inform,sustainability score,approach,certain investors",14,Environmental
+120_water_produced water_produced_dispose,"water,produced water,produced,dispose,operating expense,adoption implementation,disposal wells,drought,dispose produced,obtain water,water gathered,effect future",13,Environmental
+121_net zero_zero_net_achieve net,"net zero,zero,net,achieve net,ultimately,carbon intensity,transition,carbon,intensity,achieve,energy,emissions operations",13,Environmental
+127_forum_claim_asserting_action,"forum,claim,asserting,action,directors,officers employees,directors officers,breach,delaware,fiduciary,breach fiduciary,exclusive forum",12,"Environmental,Governance"
+138_properties areas_partially_depleted_offset,"properties areas,partially,depleted,offset,actions operators,certain wells,wells adversely,wellbore,drilling new,migration,away existing,vicinity",11,"Environmental,Social"
+163_emissions_allowances_emission_emissions control,"emissions,allowances,emission,emissions control,new regulatory,purchase,control systems,incur increased,ghg,costs,adoption legislation,install new",9,Environmental
+167_executive_executive order_biden_climate,"executive,executive order,biden,climate,order,health environment,crisis,climate change,president biden,administration,biden administration,president",9,Environmental
+184_drilling hydraulic_essential_water_component,"drilling hydraulic,essential,water,component,hydraulic fracturing,hydraulic,fracturing,production drilling,fracturing operations,fracturing process,gas production,processes",8,Environmental

@@ -1,0 +1,37 @@
+Topic,Count,Representation,ESG_Categories
+30,96,"['funds', 'private equity', 'portfolio', 'funds invest', 'portfolio company', 'private', 'performance funds', 'equity group', 'group funds', 'invest']",['Environmental']
+78,54,"['disasters', 'natural', 'natural disasters', 'disasters natural', 'natural disaster', 'disaster', 'natural manmade', 'significant natural', 'manmade', 'manmade disasters']",['Environmental']
+88,51,"['business business', 'buildings businesses', 'public buildings', 'buildings', 'businesses business', 'business public', 'business businesses', 'business', 'business atlassian', 'atlassian']",['Environmental']
+92,49,"['hospitals', 'care providers', 'care', 'health care', 'health', 'physicians', 'hospitals health', 'physician', 'health service', 'medical community']","['Environmental', 'Social']"
+105,46,"['regulations regulations', 'regulations', '', '', '', '', '', '', '', '']","['Environmental', 'Governance']"
+107,45,"['capital expenditures', 'expenditures', 'expenditures capital', 'spending capital', 'capital', 'expenses readily', 'readily apparent', 'apparent sources', 'expenditure significant', 'including capital']","['Environmental', 'Social']"
+118,43,"['technology technologies', 'technologies technology', 'technologies technologies', 'technologies', 'technology technology', 'technology', 'approach technology', 'technologies use', 'technologies products', 'approach']","['Environmental', 'Social']"
+154,37,"['additional capital', 'capital', 'capital structure', 'raise', 'raise additional', 'capital available', 'need additional', 'structure', 'capital expand', 'capital raise']","['Environmental', 'Social', 'Governance']"
+181,32,"['construction construction', 'construction', 'development construction', 'constructing', 'architecture', 'building', 'construction based', 'assembled', 'architecture assembled', 'assembled structure']",['Environmental']
+183,32,"['development development', 'develop develop', 'development develop', 'develop development', 'development', 'develop', 'developing develop', 'develop developing', 'development developing', 'developing development']","['Environmental', 'Social']"
+196,30,"['floods', 'flood', 'hurricanes', 'floods flood', 'flood floods', 'flooding', 'flood flood', 'typhoons floods', 'typhoons', 'floods hurricanes']",['Environmental']
+204,30,"['disposal', 'hazardous', 'waste', 'wastes', 'hazardous materials', 'disposal hazardous', 'substances wastes', 'emissions', 'hazardous substances', 'substances']",['Environmental']
+219,28,"['audits', 'regulatory audits', 'audit', 'audits investigations', 'administrative processes', 'contractors administrative', 'routinely investigate', 'governments routinely', 'audit government', 'investigate audit']","['Environmental', 'Governance']"
+283,24,"['weather', 'weather conditions', 'extreme weather', 'extreme', 'inclement', 'adverse weather', 'drought', 'flooding', 'inclement weather', 'weather inclement']",['Environmental']
+312,22,"['environmental', 'environmental laws', 'environmental legislation', 'laws environmental', 'international environmental', 'stricter standards', 'federal international', 'climate change', 'legislation', 'climate']",['Environmental']
+348,21,"['financial financial', 'financial finance', 'finance including', 'including financial', 'planning financial', 'fiduciary financial', 'financial fiduciary', 'financial planning', 'finance', 'financial']",['Environmental']
+388,20,"['resources resources', 'resources', 'result distance', 'distance', 'foreign operations', 'operations result', 'travel available', 'address resources', 'varying foreign', 'simultaneously managing']",['Environmental']
+401,19,"['cuts jobs', 'tax cuts', 'cuts', 'jobs', 'jobs act', 'act tax', '2017 tax', 'act', 'tax act', '2017']","['Environmental', 'Social']"
+416,18,"['hedging', 'use hedging', 'hedging activities', 'instruments hedging', 'strategies protect', 'hedging arrangements', 'hedging programs', 'hedging derivatives', 'derivative instruments', 'offset']",['Environmental']
+505,16,"['alternative technology', 'substitute', 'substitute technology', 'develop alternative', 'lower quality', 'technology lower', 'use alternative', 'alternative', 'quality performance', 'develop substitute']",['Environmental']
+509,16,"['transition', 'transition period', 'period december', 'transition date', 'transitional period', 'december 31', 'date transition', 'period transition', 'provides transitional', 'transitional']",['Environmental']
+530,15,"['commercially reasonable', 'commercially', 'reasonable', 'arrangements alternative', 'commercial quantities', 'alternative', 'able enter', 'reasonable prices', 'produce products', 'acceptable']",['Environmental']
+584,14,"['research development', 'research', 'development research', 'engage research', 'activities develop', 'development activities', 'development efforts', 'development', 'associated research', 'abandoned research']","['Environmental', 'Social']"
+622,13,"['energy', 'energy consumption', 'energy industry', 'fuel', 'oil natural', 'natural gas', 'consumption', 'oil', 'gas', 'contents prices']",['Environmental']
+637,13,"['client data', 'degradation', 'services clients', 'client', 'disruption', 'arrangement ibm', 'alternative services', '22any slowdown', '22any', 'clients 22any']",['Environmental']
+667,12,"['climate', 'climate change', 'effects climate', 'global climate', 'occurring', 'change result', 'natural disasters', 'concern climate', 'number natural', 'occurring cause']",['Environmental']
+733,11,"['public health', 'health issues', 'issues public', 'health', 'health problems', 'public', 'issues', 'currently cause', 'developments include', 'spread public']","['Environmental', 'Social']"
+740,11,"['goods goods', 'goods', 'toys certain', 'certain items', 'items goods', 'toys', 'waste toys', 'goods waste', 'waste', 'items']",['Environmental']
+772,11,"['bonded', 'reclamation', 'reclamation obligations', 'bonded extent', 'cash perform', 'amounts fully', 'fully collateralized', 'obligations bonded', 'obligations occur', 'extent bonded']",['Environmental']
+839,9,"['nuclear', 'nuclear energy', 'energy', 'energy sources', 'nuclear power', 'opposition', 'energy energy', 'affected technological', 'energy mining', 'energy increased']",['Environmental']
+853,9,"['department', 'commerce', 'department commerce', 'commerce department', 'justice', 'defense department', 'department 2018', 'council federal', 'commerce justice', 'commerce commerce']","['Environmental', 'Social']"
+854,9,"['data data', 'technology data', 'data', 'technology', '', '', '', '', '', '']","['Environmental', 'Social']"
+866,9,"['product development', 'development product', 'development', 'tasks product', 'goals product', 'development tasks', 'development goals', 'tasks', 'goals', 'product']","['Environmental', 'Social']"
+895,9,"['safety laws', 'health safety', 'safety', 'health', 'occupational', 'safety health', 'promulgated regulations', 'radioelectromagnetic', 'agencies promulgated', 'administration various']","['Environmental', 'Social']"
+896,9,"['capital requirements', 'requirements capital', 'capital', 'adequacy including', 'requirements strategic', 'company licensing', 'examination substantially', 'factors managements', 'costs working', 'banks hold']","['Environmental', 'Social']"
+994,8,"['development development', 'development developments', 'generation development', 'developments development', 'development generation', 'developing development', 'generation', 'development', 'developments', 'developing']","['Environmental', 'Social']"

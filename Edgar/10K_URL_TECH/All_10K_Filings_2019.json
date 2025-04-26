@@ -1,182 +1,236 @@
 [
     {
-        "company": "AAPL",
-        "accessionNumber": "0000320193-19-000119",
-        "filingDate": "2019-10-31",
-        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019319000119/0000320193-19-000119.txt"
-    },
-    {
-        "company": "AMZN",
-        "accessionNumber": "0001018724-19-000004",
-        "filingDate": "2019-02-01",
-        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/0001018724-19-000004.txt"
-    },
-    {
         "company": "NVDA",
         "accessionNumber": "0001045810-19-000023",
         "filingDate": "2019-02-21",
-        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000023/0001045810-19-000023.txt"
-    },
-    {
-        "company": "MSFT",
-        "accessionNumber": "0001564590-19-027952",
-        "filingDate": "2019-08-01",
-        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/0001564590-19-027952.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581019000023/0001045810-19-000023.txt"
     },
     {
         "company": "ORCL",
         "accessionNumber": "0001564590-19-023119",
         "filingDate": "2019-06-21",
-        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/0001564590-19-023119.txt"
-    },
-    {
-        "company": "CSCO",
-        "accessionNumber": "0000858877-19-000012",
-        "filingDate": "2019-09-05",
-        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887719000012/0000858877-19-000012.txt"
-    },
-    {
-        "company": "META",
-        "accessionNumber": "0001326801-19-000009",
-        "filingDate": "2019-01-31",
-        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/0001326801-19-000009.txt"
-    },
-    {
-        "company": "INTC",
-        "accessionNumber": "0000050863-19-000007",
-        "filingDate": "2019-02-01",
-        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086319000007/0000050863-19-000007.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000156459019023119/0001564590-19-023119.txt"
     },
     {
         "company": "GOOGL",
         "accessionNumber": "0001652044-19-000004",
         "filingDate": "2019-02-05",
-        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/0001652044-19-000004.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204419000004/0001652044-19-000004.txt"
     },
     {
-        "company": "NFLX",
-        "accessionNumber": "0001065280-19-000043",
-        "filingDate": "2019-01-29",
-        "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/0001065280-19-000043.txt"
+        "company": "AMZN",
+        "accessionNumber": "0001018724-19-000004",
+        "filingDate": "2019-02-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872419000004/0001018724-19-000004.txt"
     },
     {
-        "company": "T",
-        "accessionNumber": "0001193125-19-045608",
-        "filingDate": "2019-02-20",
-        "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/0001193125-19-045608.txt"
+        "company": "AAPL",
+        "accessionNumber": "0000320193-19-000119",
+        "filingDate": "2019-10-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019319000119/0000320193-19-000119.txt"
     },
     {
-        "company": "MU",
-        "accessionNumber": "0000723125-19-000094",
-        "filingDate": "2019-10-17",
-        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312519000094/0000723125-19-000094.txt"
+        "company": "CSCO",
+        "accessionNumber": "0000858877-19-000012",
+        "filingDate": "2019-09-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/000858877/000085887719000012/0000858877-19-000012.txt"
+    },
+    {
+        "company": "INTC",
+        "accessionNumber": "0000050863-19-000007",
+        "filingDate": "2019-02-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/000050863/000005086319000007/0000050863-19-000007.txt"
+    },
+    {
+        "company": "MSFT",
+        "accessionNumber": "0001564590-19-027952",
+        "filingDate": "2019-08-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/000789019/000156459019027952/0001564590-19-027952.txt"
+    },
+    {
+        "company": "META",
+        "accessionNumber": "0001326801-19-000009",
+        "filingDate": "2019-01-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000132680119000009/0001326801-19-000009.txt"
     },
     {
         "company": "A",
         "accessionNumber": "0001090872-19-000022",
         "filingDate": "2019-12-19",
-        "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087219000022/0001090872-19-000022.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001090872/000109087219000022/0001090872-19-000022.txt"
     },
     {
-        "company": "IBM",
-        "accessionNumber": "0001047469-19-000712",
-        "filingDate": "2019-02-26",
-        "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746919000712/0001047469-19-000712.txt"
+        "company": "MU",
+        "accessionNumber": "0000723125-19-000094",
+        "filingDate": "2019-10-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/000723125/000072312519000094/0000723125-19-000094.txt"
     },
     {
-        "company": "HPQ",
-        "accessionNumber": "0000047217-19-000071",
-        "filingDate": "2019-12-12",
-        "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721719000071/0000047217-19-000071.txt"
-    },
-    {
-        "company": "CMCSA",
-        "accessionNumber": "0001166691-19-000005",
-        "filingDate": "2019-01-31",
-        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669119000005/0001166691-19-000005.txt"
+        "company": "NFLX",
+        "accessionNumber": "0001065280-19-000043",
+        "filingDate": "2019-01-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528019000043/0001065280-19-000043.txt"
     },
     {
         "company": "INTU",
         "accessionNumber": "0000896878-19-000132",
         "filingDate": "2019-08-30",
-        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687819000132/0000896878-19-000132.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000896878/000089687819000132/0000896878-19-000132.txt"
+    },
+    {
+        "company": "HPQ",
+        "accessionNumber": "0000047217-19-000071",
+        "filingDate": "2019-12-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/000047217/000004721719000071/0000047217-19-000071.txt"
     },
     {
         "company": "ADTN",
         "accessionNumber": "0001564590-19-005179",
         "filingDate": "2019-02-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/926282/000156459019005179/0001564590-19-005179.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/000926282/000156459019005179/0001564590-19-005179.txt"
     },
     {
-        "company": "CPT",
-        "accessionNumber": "0000906345-19-000006",
-        "filingDate": "2019-02-15",
-        "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634519000006/0000906345-19-000006.txt"
+        "company": "CMCSA",
+        "accessionNumber": "0001166691-19-000005",
+        "filingDate": "2019-01-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001166691/000116669119000005/0001166691-19-000005.txt"
     },
     {
         "company": "CI",
         "accessionNumber": "0001047469-19-000792",
         "filingDate": "2019-02-28",
-        "url": "https://www.sec.gov/Archives/edgar/data/1739940/000104746919000792/0001047469-19-000792.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001739940/000104746919000792/0001047469-19-000792.txt"
+    },
+    {
+        "company": "T",
+        "accessionNumber": "0001193125-19-045608",
+        "filingDate": "2019-02-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/000732717/000119312519045608/0001193125-19-045608.txt"
     },
     {
         "company": "UI",
         "accessionNumber": "0001511737-19-000026",
         "filingDate": "2019-08-21",
-        "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173719000026/0001511737-19-000026.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001511737/000151173719000026/0001511737-19-000026.txt"
+    },
+    {
+        "company": "IBM",
+        "accessionNumber": "0001047469-19-000712",
+        "filingDate": "2019-02-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/000051143/000104746919000712/0001047469-19-000712.txt"
     },
     {
         "company": "ONDS",
         "accessionNumber": "0001615774-19-004224",
         "filingDate": "2019-03-19",
-        "url": "https://www.sec.gov/Archives/edgar/data/1646188/000161577419004224/0001615774-19-004224.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001646188/000161577419004224/0001615774-19-004224.txt"
     },
     {
-        "company": "BR",
-        "accessionNumber": "0001383312-19-000042",
-        "filingDate": "2019-08-06",
-        "url": "https://www.sec.gov/Archives/edgar/data/1383312/000138331219000042/0001383312-19-000042.txt"
-    },
-    {
-        "company": "ARR",
-        "accessionNumber": "0001428205-19-000045",
-        "filingDate": "2019-02-14",
-        "url": "https://www.sec.gov/Archives/edgar/data/1428205/000142820519000045/0001428205-19-000045.txt"
-    },
-    {
-        "company": "TSLA",
-        "accessionNumber": "0001564590-19-003165",
-        "filingDate": "2019-02-19",
-        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/0001564590-19-003165.txt"
+        "company": "CPT",
+        "accessionNumber": "0000906345-19-000006",
+        "filingDate": "2019-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/000906345/000090634519000006/0000906345-19-000006.txt"
     },
     {
         "company": "LIN",
         "accessionNumber": "0001628280-19-003050",
         "filingDate": "2019-03-18",
-        "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828019003050/0001628280-19-003050.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001707925/000162828019003050/0001628280-19-003050.txt"
     },
     {
-        "company": "VRSK",
-        "accessionNumber": "0001442145-19-000012",
+        "company": "TSLA",
+        "accessionNumber": "0001564590-19-003165",
         "filingDate": "2019-02-19",
-        "url": "https://www.sec.gov/Archives/edgar/data/1442145/000144214519000012/0001442145-19-000012.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000156459019003165/0001564590-19-003165.txt"
+    },
+    {
+        "company": "BR",
+        "accessionNumber": "0001383312-19-000042",
+        "filingDate": "2019-08-06",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001383312/000138331219000042/0001383312-19-000042.txt"
+    },
+    {
+        "company": "ARR",
+        "accessionNumber": "0001428205-19-000045",
+        "filingDate": "2019-02-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001428205/000142820519000045/0001428205-19-000045.txt"
     },
     {
         "company": "UUUU",
         "accessionNumber": "0001385849-19-000032",
         "filingDate": "2019-03-12",
-        "url": "https://www.sec.gov/Archives/edgar/data/1385849/000138584919000032/0001385849-19-000032.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001385849/000138584919000032/0001385849-19-000032.txt"
+    },
+    {
+        "company": "VRSK",
+        "accessionNumber": "0001442145-19-000012",
+        "filingDate": "2019-02-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001442145/000144214519000012/0001442145-19-000012.txt"
     },
     {
         "company": "ARES",
         "accessionNumber": "0001628280-19-001988",
         "filingDate": "2019-02-26",
-        "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828019001988/0001628280-19-001988.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001176948/000162828019001988/0001628280-19-001988.txt"
     },
     {
         "company": "RARE",
         "accessionNumber": "0001564590-19-003324",
         "filingDate": "2019-02-20",
-        "url": "https://www.sec.gov/Archives/edgar/data/1515673/000156459019003324/0001564590-19-003324.txt"
+        "url": "https://www.sec.gov/Archives/edgar/data/0001515673/000156459019003324/0001564590-19-003324.txt"
+    },
+    {
+        "company": "GME",
+        "accessionNumber": "0001326380-19-000052",
+        "filingDate": "2019-04-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001326380/000132638019000052/0001326380-19-000052.txt"
+    },
+    {
+        "company": "AME",
+        "accessionNumber": "0001193125-19-046947",
+        "filingDate": "2019-02-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001037868/000119312519046947/0001193125-19-046947.txt"
+    },
+    {
+        "company": "AMD",
+        "accessionNumber": "0000002488-19-000011",
+        "filingDate": "2019-02-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248819000011/0000002488-19-000011.txt"
+    },
+    {
+        "company": "JNPR",
+        "accessionNumber": "0001043604-19-000012",
+        "filingDate": "2019-02-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001043604/000104360419000012/0001043604-19-000012.txt"
+    },
+    {
+        "company": "IPGP",
+        "accessionNumber": "0001111928-19-000035",
+        "filingDate": "2019-02-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001111928/000111192819000035/0001111928-19-000035.txt"
+    },
+    {
+        "company": "NOC",
+        "accessionNumber": "0001133421-19-000007",
+        "filingDate": "2019-01-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001133421/000113342119000007/0001133421-19-000007.txt"
+    },
+    {
+        "company": "EW",
+        "accessionNumber": "0001099800-19-000004",
+        "filingDate": "2019-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001099800/000109980019000004/0001099800-19-000004.txt"
+    },
+    {
+        "company": "ANET",
+        "accessionNumber": "0001596532-19-000027",
+        "filingDate": "2019-02-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001596532/000159653219000027/0001596532-19-000027.txt"
+    },
+    {
+        "company": "CRM",
+        "accessionNumber": "0001108524-19-000009",
+        "filingDate": "2019-03-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001108524/000110852419000009/0001108524-19-000009.txt"
     }
 ]
